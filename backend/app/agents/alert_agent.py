@@ -12,8 +12,8 @@ LOW_STOCK_THRESHOLD = 10
 _triggered_products = set()
 
 # 📱 numbers (NO whatsapp: prefix)
-ADMIN_PHONE = "+919322759951"      # replace
-SUPPLIER_PHONE = "+919322759951"   # replace
+ADMIN_PHONE = "+91999999999"      # replace
+SUPPLIER_PHONE = "+9191999999999"   # replace
 
 
 def trigger_low_stock_webhook(medicine, stock):
@@ -105,4 +105,5 @@ def check_low_stock():
         return alerts
 
     finally:
+
         db.close()
