@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PharmaAI Register</title>
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<style>
+body{
+    margin:0;
+    height:100vh;
+    font-family:'Segoe UI',sans-serif;
+    background:linear-gradient(135deg,#0f172a,#020617);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+}
+
+/* glowing background */
+.orb{
+    position:absolute;
+    border-radius:50%;
+    filter:blur(90px);
+    opacity:.35;
+}
+.orb1{width:300px;height:300px;background:#00e5ff;top:-80px;left:-80px;}
+.orb2{width:260px;height:260px;background:#00ff9f;bottom:-60px;right:-60px;}
+
+.card{
+    position:relative;
+    z-index:10;
+    width:380px;
+    padding:40px;
+    border-radius:20px;
+    background:rgba(255,255,255,0.08);
+    backdrop-filter:blur(18px);
+    border:1px solid rgba(255,255,255,0.12);
+    box-shadow:0 20px 40px rgba(0,0,0,.35);
+    text-align:center;
+    color:#fff;
+}
+
+.logo{
+    font-size:26px;
+    color:#00e5ff;
+}
+
+.subtitle{
+    font-size:14px;
+    opacity:.75;
+    margin-bottom:25px;
+}
+
+.input-group{
+    position:relative;
+    margin-bottom:18px;
+}
+
+.input-group i{
+    position:absolute;
+    left:12px;
+    top:12px;
+    opacity:.7;
+}
+
+input{
+    width:100%;
+    padding:12px 12px 12px 38px;
+    border-radius:10px;
+    border:none;
+    outline:none;
+    font-size:14px;
+    background:rgba(255,255,255,0.12);
+    color:white;
+}
+
+input::placeholder{
+    color:rgba(255,255,255,.6);
+}
+
+button{
+    width:100%;
+    padding:12px;
+    border:none;
+    border-radius:10px;
+    background:linear-gradient(90deg,#00e5ff,#00ff9f);
+    color:#000;
+    font-weight:bold;
+    cursor:pointer;
+    transition:.3s;
+    margin-top:5px;
+}
+
+button:hover{
+    transform:translateY(-2px);
+    box-shadow:0 8px 20px rgba(0,255,159,.4);
+}
+
+#msg{
+    margin-top:12px;
+    font-size:13px;
+    color:#ff7a7a;
+}
+
+.login-link{
+    margin-top:15px;
+    font-size:13px;
+}
+
+.login-link a{
+    color:#00ff9f;
+    text-decoration:none;
+}
+</style>
+</head>
+<body>
+
+<div class="orb orb1"></div>
+<div class="orb orb2"></div>
+
+<div class="card">
+    <div class="logo"><i class="fa-solid fa-dna"></i> PharmaAI</div>
+    <div class="subtitle">Create your account</div>
+
+    <div class="input-group">
+        <i class="fa fa-user"></i>
+        <input id="name" placeholder="Full Name">
+    </div>
+
+    <div class="input-group">
+        <i class="fa fa-envelope"></i>
+        <input id="email" placeholder="Email">
+    </div>
+
+    <div class="input-group">
+        <i class="fa fa-lock"></i>
+        <input type="password" id="password" placeholder="Password">
+    </div>
+
+    <button onclick="register()">Register</button>
+
+    <p id="msg"></p>
+
+    <div class="login-link">
+        Already have an account?
+        <a href="login.html">Login</a>
+    </div>
+</div>
+
+<script>
+async function register(){
+
+    const name=document.getElementById("name").value;
+    const email=document.getElementById("email").value;
+    const password=document.getElementById("password").value;
+
+    const res=await fetch("http://127.0.0.1:8000/auth/register",{
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({name,email,password})
+    });
+
+    const data=await res.json();
+
+    if(res.ok){
+        document.getElementById("msg").style.color="#00ff9f";
+        document.getElementById("msg").innerText="Registration successful!";
+        setTimeout(()=>window.location="login.html",1500);
+    }else{
+        document.getElementById("msg").innerText=data.detail;
+    }
+}
+</script>
+
+</body>
+</html>

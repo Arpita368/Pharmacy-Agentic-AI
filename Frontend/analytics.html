@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics — PharmaAI</title>
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/analytics.css">
+</head>
+
+<body>
+<div class="app-shell">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-logo">
+            <div class="logo-icon"><i class="fa-solid fa-dna"></i></div>
+            <div>
+                <h1>PharmaAI</h1>
+                <span>Agentic System</span>
+            </div>
+        </div>
+
+        <div class="nav-section">
+            <div class="nav-section-label">Navigation</div>
+            <a href="dashboard.html" class="nav-link">
+                <i class="fa-solid fa-user-nurse"></i>AI Pharmacist
+            </a>
+            <a href="inventory.html" class="nav-link">
+                <i class="fa-solid fa-pills"></i>Inventory
+            </a>
+            <a href="analytics.html" class="nav-link active">
+                <i class="fa-solid fa-chart-line"></i>Analytics
+            </a>
+            <a href="scanner.html" class="nav-link">
+                <i class="fa-solid fa-file-prescription"></i>Rx Scanner
+            </a>
+            <a href="orders.html" class="nav-link">
+                <i class="fa-solid fa-receipt"></i>Orders
+            </a>
+        </div>
+    </aside>
+
+    <!-- Main -->
+    <main class="app-main">
+
+        <header class="topbar">
+            <div>
+                <div class="topbar-title">Business Intelligence</div>
+                <div class="topbar-subtitle">
+                    Real-time sales & inventory analytics
+                </div>
+            </div>
+
+            <select id="period-filter" class="form-control">
+                <option value="6">Last 6 months</option>
+                <option value="12" selected>Last 12 months</option>
+            </select>
+        </header>
+
+        <div class="page-content">
+
+            <!-- KPI Cards -->
+            <div class="kpi-row" id="kpi-row"></div>
+
+            <!-- Revenue Chart -->
+            <div class="chart-card glass">
+                <div class="chart-header">
+                    <h3>Monthly Revenue</h3>
+                    <span id="revenue-trend" class="badge badge-teal"></span>
+                </div>
+                <div id="bar-chart" class="bar-chart-wrap"></div>
+            </div>
+
+            <!-- Stock Health -->
+            <div class="chart-card glass" style="margin-top:var(--space-lg)">
+                <div class="chart-header">
+                    <h3>Stock Health Overview</h3>
+                </div>
+
+                <div class="table-wrap">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Medicine</th>
+                                <th>Stock</th>
+                                <th>Price</th>
+                                <th>Status</th>
+                                <th>Projected Runout</th>
+                            </tr>
+                        </thead>
+                        <tbody id="health-body"></tbody>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+    </main>
+</div>
+
+<script src="js/analytics.js"></script>
+</body>
+</html>
+<!--DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics — PharmaAI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/analytics.css">
+</head>
+
+<body>
+    <div class="app-shell">
+        <aside class="sidebar">
+            <div class="sidebar-logo">
+                <div class="logo-icon"><i class="fa-solid fa-dna"></i></div>
+                <div>
+                    <h1>PharmaAI</h1><span>Agentic System</span>
+                </div>
+            </div>
+            <div class="nav-section">
+                <div class="nav-section-label">Navigation</div>
+                <a href="dashboard.html" class="nav-link"><i class="fa-solid fa-user-nurse"></i>AI
+                    Pharmacist</a>
+                <a href="inventory.html" class="nav-link"><i class="fa-solid fa-pills"></i>Inventory</a>
+                <a href="analytics.html" class="nav-link"><i
+                        class="fa-solid fa-chart-line"></i>Analytics</a>
+                <a href="scanner.html" class="nav-link"><i class="fa-solid fa-file-prescription"></i>Rx
+                    Scanner</a>
+                <a href="orders.html" class="nav-link"><i class="fa-solid fa-receipt"></i>Orders</a>
+            </div>
+            <div class="sidebar-footer">
+                <div class="user-card">
+                    <div class="user-avatar"><i class="fa-solid fa-user-doctor"></i></div>
+                    <div>
+                        <div class="user-name">User He/She</div>
+                        <div class="user-role">Admin</div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <div class="sidebar-overlay"></div>
+
+        <main class="app-main">
+            <header class="topbar">
+                <div class="topbar-left">
+                    <button class="btn-icon hamburger"><i class="fa-solid fa-bars"></i></button>
+                    <div>
+                        <div class="topbar-title">Business Intelligence</div>
+                        <div class="topbar-subtitle">Sales trends, stock analytics & predictions</div>
+                    </div>
+                </div>
+                <div class="topbar-right">
+                    <select id="period-filter" class="form-control" style="min-width:130px">
+                        <option value="6">Last 6 months</option>
+                        <option value="12" selected>Last 12 months</option>
+                    </select>
+                    <button id="theme-toggle" class="btn-icon"><i class="fa-solid fa-moon"></i></button>
+                </div>
+            </header>
+
+            <div class="page-content">
+                <!- KPI Row ->
+                <div class="kpi-row" id="kpi-row"></div>
+
+                <!- Charts Row ->
+                <div class="charts-row">
+                    <!- Monthly Bar Chart ->
+                    <div class="chart-card glass">
+                        <div class="chart-header">
+                            <h3>Monthly Revenue</h3>
+                            <span class="badge badge-teal" id="revenue-trend"></span>
+                        </div>
+                        <div class="bar-chart-wrap" id="bar-chart"></div>
+                        <div class="bar-legend" id="bar-legend"></div>
+                    </div>
+
+                    <!-- Category Donut --
+                    <div class="chart-card glass">
+                        <div class="chart-header">
+                            <h3>Category Distribution</h3>
+                        </div>
+                        <div class="donut-wrap">
+                            <svg id="donut-svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"></svg>
+                            <div class="donut-center" id="donut-center"></div>
+                        </div>
+                        <div class="donut-legend" id="donut-legend"></div>
+                    </div>
+                </div>
+
+                <!- Stock Health Table ->
+                <div class="chart-card glass" style="margin-top: var(--space-lg)">
+                    <div class="chart-header">
+                        <h3>Stock Health Overview</h3>
+                        <a href="inventory.html" class="btn btn-ghost btn-sm">Manage <i
+                                class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                    <div class="table-wrap" style="border:none">
+                        <table id="health-table">
+                            <thead>
+                                <tr>
+                                    <th>Medicine</th>
+                                    <th>Category</th>
+                                    <th>Stock Remaining</th>
+                                    <th>Health</th>
+                                    <th>Projected Runout</th>
+                                </tr>
+                            </thead>
+                            <tbody id="health-body"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <div id="toast-container"></div>
+    <script src="js/shared.js"></script>
+    <script src="js/analytics.js"></script>
+</body>
+
+</html-->

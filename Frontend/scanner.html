@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rx Scanner — PharmaAI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/scanner.css">
+</head>
+
+<body>
+    <div class="app-shell">
+        <aside class="sidebar">
+            <div class="sidebar-logo">
+                <div class="logo-icon"><i class="fa-solid fa-dna"></i></div>
+                <div>
+                    <h1>PharmaAI</h1><span>Agentic System</span>
+                </div>
+            </div>
+            <div class="nav-section">
+                <div class="nav-section-label">Navigation</div>
+                <a href="dashboard.html" class="nav-link"><i class="fa-solid fa-user-nurse"></i>AI
+                    Pharmacist</a>
+                <a href="inventory.html" class="nav-link"><i class="fa-solid fa-pills"></i>Inventory</a>
+                <a href="analytics.html" class="nav-link"><i
+                        class="fa-solid fa-chart-line"></i>Analytics</a>
+                <a href="scanner.html" class="nav-link"><i class="fa-solid fa-file-prescription"></i>Rx
+                    Scanner</a>
+                <a href="orders.html" class="nav-link"><i class="fa-solid fa-receipt"></i>Orders</a>
+            </div>
+            <div class="sidebar-footer">
+                <div class="user-card">
+                    <div class="user-avatar"><i class="fa-solid fa-user-doctor"></i></div>
+                    <div>
+                        <div class="user-name">User He/She</div>
+                        <div class="user-role">Admin</div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <div class="sidebar-overlay"></div>
+
+        <main class="app-main">
+            <header class="topbar">
+                <div class="topbar-left">
+                    <button class="btn-icon hamburger"><i class="fa-solid fa-bars"></i></button>
+                    <div>
+                        <div class="topbar-title">Prescription AI Scanner</div>
+                        <div class="topbar-subtitle">Upload a prescription to extract medicines automatically</div>
+                    </div>
+                </div>
+                <div class="topbar-right">
+                    <button id="theme-toggle" class="btn-icon"><i class="fa-solid fa-moon"></i></button>
+                </div>
+            </header>
+
+            <div class="page-content scanner-layout">
+                <!-- Left: Upload -->
+                <div>
+                    <div class="drop-zone glass" id="drop-zone">
+                        <div class="drop-idle" id="drop-idle">
+                            <div class="drop-icon"><i class="fa-solid fa-file-prescription"></i></div>
+                            <h3>Drag & Drop Prescription</h3>
+                            <p>Supports JPG, PNG, PDF — up to 10MB</p>
+                            <button class="btn btn-primary" id="browse-btn"><i class="fa-solid fa-folder-open"></i>
+                                Browse File</button>
+                        </div>
+                        <div class="drop-scanning hidden" id="drop-scanning">
+                            <div class="scan-spinner"></div>
+                            <p id="scan-status">Uploading…</p>
+                        </div>
+                        <div class="drop-done hidden" id="drop-done">
+                            <i class="fa-solid fa-circle-check" style="font-size:3rem;color:var(--green-400)"></i>
+                            <p id="filename-display">prescription.jpg</p>
+                            <button class="btn btn-ghost" id="rescan-btn"><i class="fa-solid fa-rotate"></i> Scan
+                                Another</button>
+                        </div>
+                        <input type="file" id="file-input" hidden accept="image/*,.pdf">
+                    </div>
+
+                    <!-- Recent Scans -->
+                    <div class="recent-scans glass" id="recent-scans">
+                        <h4>Recent Scans</h4>
+                        <div id="recent-list"></div>
+                    </div>
+                </div>
+
+                <!-- Right: Results -->
+                <div id="results-panel" class="results-panel glass hidden">
+                    <div class="results-header">
+                        <div>
+                            <h3>AI Analysis Results</h3>
+                            <p class="topbar-subtitle" id="results-date"></p>
+                        </div>
+                        <span class="badge badge-green"><i class="fa-solid fa-wand-magic-sparkles"></i> AI
+                            Verified</span>
+                    </div>
+
+                    <div id="detected-meds"></div>
+
+                    <div id="interaction-alert" class="interaction-alert hidden">
+                        <i class="fa-solid fa-triangle-exclamation"></i>
+                        <div>
+                            <strong>Drug Interaction Detected</strong>
+                            <p id="interaction-text"></p>
+                        </div>
+                    </div>
+
+                    <div class="results-footer">
+                        <a href="orders.html" class="btn btn-primary w-full" id="add-to-cart-btn">
+                            <i class="fa-solid fa-cart-plus"></i> Add All to Order
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <div id="toast-container"></div>
+    <script src="js/shared.js"></script>
+    <script src="js/scanner.js"></script>
+</body>
+
+</html>

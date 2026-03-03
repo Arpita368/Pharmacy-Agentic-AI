@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Pharmacist — PharmaAI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/dashboard.css">
+</head>
+
+<body>
+    <div class="app-shell">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-logo">
+                <div class="logo-icon"><i class="fa-solid fa-dna"></i></div>
+                <div>
+                    <h1>PharmaAI</h1><span>Clinical System</span>
+                </div>
+            </div>
+            <div class="nav-section">
+                <div class="nav-section-label">Navigation</div>
+                <a href="dashboard.html" class="nav-link" target="_self"><i class="fa-solid fa-user-nurse"></i>AI
+                    Pharmacist</a>
+                <a href="scanner.html" class="nav-link" target="_self"><i class="fa-solid fa-file-prescription"></i>Rx
+                    Scanner</a>
+                <a href="orders.html" class="nav-link" target="_self"><i class="fa-solid fa-receipt"></i>Orders</a>
+            </div>
+            <div class="sidebar-footer">
+                <div class="user-card">
+                    <div class="user-avatar"><i class="fa-solid fa-user-doctor"></i></div>
+                    <div>
+                        <div class="user-name">User HE/She</div>
+                        <div class="user-role">Admin</div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <div class="sidebar-overlay"></div>
+
+        <main class="app-main">
+            <header class="topbar">
+                <div class="topbar-left">
+                    <button class="btn-icon hamburger" aria-label="Menu"><i class="fa-solid fa-bars"></i></button>
+                    <div>
+                        <div class="topbar-title">Digital Pharmacist</div>
+                        <div class="topbar-subtitle">Your dedicated clinical assistant for medicine & health queries
+                        </div>
+                    </div>
+                </div>
+                <div class="topbar-right">
+                    <div class="status-pill"><span class="dot dot-green"></span>Pharmacist Online</div>
+                    <button id="theme-toggle" class="btn-icon"><i class="fa-solid fa-moon"></i></button>
+                </div>
+            </header>
+
+            <div class="page-content chat-layout">
+                <!-- Suggestions Row -->
+                <!--div class="quick-prompts" id="quick-prompts">
+                    <button class="prompt-chip" data-q="Do you have Amoxicillin 500mg in stock?">💊 Check stock</button>
+                    <button class="prompt-chip" data-q="What medicines are low on stock?">⚠️ Low stock alert</button>
+                    <button class="prompt-chip" data-q="How much does Atorvastatin cost?">💰 Check price</button>
+                    <button class="prompt-chip" data-q="Are there any drug interaction warnings today?">🔬 Drug
+                        interactions</button>
+                </div-->
+
+                <!-- Chat Window -->
+                <div class="chat-window glass" id="chat-window">
+                    <div class="chat-history" id="chat-history"></div>
+                </div>
+
+                <!-- Input -->
+                <div class="chat-input-bar glass">
+                    <button id="mic-btn" class="btn-icon mic-btn" aria-label="Voice"><i
+                            class="fa-solid fa-microphone"></i></button>
+                    <input type="text" id="user-input" class="chat-input"
+                        placeholder="Ask anything about your pharmacy…" autocomplete="off">
+                    <button id="send-btn" class="send-btn btn btn-primary"><i
+                            class="fa-solid fa-paper-plane"></i></button>
+                </div>
+            </div>
+        </main>
+    </div>
+    <div id="toast-container"></div>
+    <script src="js/shared.js"></script>
+    <script src="js/chat.js"></script>
+</body>
+
+</html>

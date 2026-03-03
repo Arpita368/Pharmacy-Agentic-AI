@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orders — PharmaAI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/orders.css">
+</head>
+
+<body>
+    <div class="app-shell">
+        <aside class="sidebar">
+            <div class="sidebar-logo">
+                <div class="logo-icon"><i class="fa-solid fa-dna"></i></div>
+                <div>
+                    <h1>PharmaAI</h1><span>Agentic System</span>
+                </div>
+            </div>
+            <div class="nav-section">
+                <div class="nav-section-label">Navigation</div>
+                <a href="dashboard.html" class="nav-link" target="_blank"><i class="fa-solid fa-user-nurse"></i>AI
+                    Pharmacist</a>
+                <a href="inventory.html" class="nav-link" target="_blank"><i class="fa-solid fa-pills"></i>Inventory</a>
+                <a href="analytics.html" class="nav-link" target="_blank"><i
+                        class="fa-solid fa-chart-line"></i>Analytics</a>
+                <a href="scanner.html" class="nav-link" target="_blank"><i class="fa-solid fa-file-prescription"></i>Rx
+                    Scanner</a>
+                <a href="orders.html" class="nav-link active" target="_blank"><i
+                        class="fa-solid fa-receipt"></i>Orders</a>
+            </div>
+            <div class="sidebar-footer">
+                <div class="user-card">
+                    <div class="user-avatar"><i class="fa-solid fa-user-doctor"></i></div>
+                    <div>
+                        <div class="user-name">User He/She</div>
+                        <div class="user-role">Admin</div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <div class="sidebar-overlay"></div>
+
+        <main class="app-main">
+            <header class="topbar">
+                <div class="topbar-left">
+                    <button class="btn-icon hamburger"><i class="fa-solid fa-bars"></i></button>
+                    <div>
+                        <div class="topbar-title">Order Processing</div>
+                        <div class="topbar-subtitle">Review, validate and confirm customer orders</div>
+                    </div>
+                </div>
+                <div class="topbar-right">
+                    <button id="theme-toggle" class="btn-icon"><i class="fa-solid fa-moon"></i></button>
+                </div>
+            </header>
+
+            <div class="page-content order-layout">
+                <div class="order-main">
+                    <div class="order-card glass">
+                        <div class="card-header">
+                            <h3>Current Order Items</h3>
+                            <span class="badge badge-teal" id="cart-count">0 Items</span>
+                        </div>
+                        <div class="table-wrap" style="border:none">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Medicine</th>
+                                        <th>Quantity</th>
+                                        <th>Price</th>
+                                        <th>Total</th>
+                                        <th>Status</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody id="cart-table-body">
+                                    <!-- JS Injected -->
+                                </tbody>
+                            </table>
+                            <div id="cart-empty" class="empty-state hidden">
+                                <i class="fa-solid fa-shopping-cart"></i>
+                                <p>Your cart is empty. Scan an Rx or use the AI Pharmacist to add items.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="rx-upload-section" class="order-card glass hidden">
+                        <div class="card-header">
+                            <h3><i class="fa-solid fa-file-medical"></i> Prescription Required</h3>
+                            <span class="badge badge-warn">Review Needed</span>
+                        </div>
+                        <p class="section-desc">One or more items in this order require a valid prescription scan for
+                            regulatory compliance.</p>
+                        <div class="upload-mini-zone" id="rx-dropzone">
+                            <i class="fa-solid fa-cloud-arrow-up"></i>
+                            <p id="rx-status-text">Drag & drop or Click to upload Rx</p>
+                            <input type="file" id="rx-file-input" hidden>
+                        </div>
+                    </div>
+                </div>
+
+                <aside class="order-sidebar">
+                    <div class="order-card glass summary-card">
+                        <h3>Order Summary</h3>
+                        <div class="summary-line">
+                            <span>Subtotal</span>
+                            <span id="summary-subtotal">$0.00</span>
+                        </div>
+                        <div class="summary-line">
+                            <span>Tax (5%)</span>
+                            <span id="summary-tax">$0.00</span>
+                        </div>
+                        <div class="summary-line total">
+                            <span>Total Due</span>
+                            <span id="summary-total">$0.00</span>
+                        </div>
+                        <button id="confirm-order-btn" class="btn btn-primary w-full btn-lg" disabled>
+                            <span id="btn-text">Confirm Order</span>
+                            <div class="spinner hidden" id="btn-spinner"></div>
+                        </button>
+                        <p class="safe-text"><i class="fa-solid fa-shield-halved"></i> AI-validated for drug
+                            interactions</p>
+                    </div>
+
+                    <div id="safety-alerts" class="safety-alerts-container">
+                        <!-- JS Injected -->
+                    </div>
+                </aside>
+            </div>
+        </main>
+    </div>
+
+    <div id="payment-modal" class="modal-overlay hidden">
+        <div class="modal-box text-center">
+            <h2 class="modal-title">Select Payment Method</h2>
+            <div class="payment-options" style="display: flex; gap: 1rem; justify-content: center; margin: 1.5rem 0;">
+                <label class="payment-card" style="border: 2px solid var(--border); padding: 1rem; border-radius: 8px; cursor: pointer; flex: 1;">
+                    <input type="radio" name="payment_method" value="COD" checked>
+                    <div><i class="fa-solid fa-money-bill-wave fa-2x"></i></div>
+                    <div style="margin-top:0.5rem; font-weight:bold;">Cash on Delivery</div>
+                </label>
+                <label class="payment-card" style="border: 2px solid var(--border); padding: 1rem; border-radius: 8px; cursor: pointer; flex: 1;">
+                    <input type="radio" name="payment_method" value="ONLINE">
+                    <div><i class="fa-brands fa-google-pay fa-2x"></i> <i class="fa-brands fa-cc-visa fa-2x"></i></div>
+                    <div style="margin-top:0.5rem; font-weight:bold;">Online (UPI)</div>
+                </label>
+            </div>
+            
+            <div id="online-payment-details" class="hidden" style="margin-top: 1.5rem; text-align: left; background: var(--bg-card); padding: 1.5rem; border-radius: 8px;">
+                <div style="text-align: center; margin-bottom: 1rem;">
+                    <p style="font-weight: bold; margin-bottom: 0.5rem;">Scan QR to Pay</p>
+                    <img id="upi-qr-code" src="" alt="UPI QR Code" style="width: 150px; height: 150px; border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem; background: white;">
+                    <p style="margin-top: 0.5rem; font-family: monospace; color: var(--text-muted);">UPI ID: 9322759951@ybl</p>
+                </div>
+                <div class="input-group">
+                    <label style="display:block; margin-bottom:0.5rem; text-align:left;">Enter UTR Number (12 digits)</label>
+                    <input type="text" id="utr-input" class="input-field" placeholder="e.g. 123456789012" style="width: 100%; padding: 0.75rem; border: 1px solid var(--border); border-radius: 4px; background: var(--bg-body); color: var(--text-main);">
+                </div>
+            </div>
+
+            <div class="modal-footer justify-center" style="margin-top: 1.5rem;">
+                <button id="cancel-payment-btn" class="btn btn-outline" style="border: 1px solid var(--border); background: transparent; color: var(--text-main);">Cancel</button>
+                <button id="process-payment-btn" class="btn btn-primary">Place Order</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="confirmation-modal" class="modal-overlay hidden">
+        <div class="modal-box text-center">
+            <div class="success-icon"><i class="fa-solid fa-circle-check"></i></div>
+            <h2 class="modal-title">Order Confirmed!</h2>
+            <p>Order #PH-8291 has been sent to fulfillment. The inventory has been updated accordingly.</p>
+            <div class="modal-footer justify-center">
+                <button id="finish-btn" class="btn btn-primary">Done</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="toast-container"></div>
+    <script src="js/shared.js"></script>
+    <script src="js/orders.js"></script>
+</body>
+
+</html>

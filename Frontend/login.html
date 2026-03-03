@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PharmaAI Login</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<script>
+// 🔥 DEVELOPMENT MODE ONLY
+localStorage.clear();
+console.clear();
+</script>
+<script>
+// ✅ If already logged in → go to landing page
+if (localStorage.getItem("token")) {
+    window.location.href = "/frontend/index.html";
+}
+</script>
+
+<style>
+body{
+margin:0;
+height:100vh;
+font-family:Segoe UI, sans-serif;
+background:linear-gradient(135deg,#0f172a,#020617);
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+.login-card{
+width:360px;
+padding:40px;
+border-radius:20px;
+background:rgba(255,255,255,0.08);
+backdrop-filter:blur(18px);
+text-align:center;
+color:#fff;
+box-shadow:0 20px 40px rgba(0,0,0,.35);
+}
+
+.logo{
+font-size:24px;
+color:#00e5ff;
+margin-bottom:10px;
+}
+
+input{
+width:100%;
+padding:12px;
+margin-bottom:15px;
+border-radius:8px;
+border:none;
+background:rgba(255,255,255,.12);
+color:#fff;
+font-size:14px;
+}
+
+input::placeholder{
+color:rgba(255,255,255,.6);
+}
+
+button{
+width:100%;
+padding:12px;
+border:none;
+border-radius:8px;
+background:linear-gradient(90deg,#00e5ff,#00ff9f);
+font-weight:bold;
+cursor:pointer;
+transition:.3s;
+}
+
+button:hover{
+transform:translateY(-2px);
+box-shadow:0 8px 20px rgba(0,255,159,.4);
+}
+
+#msg{
+color:#ff7a7a;
+font-size:13px;
+margin-top:8px;
+}
+
+a{
+color:#00ff9f;
+text-decoration:none;
+font-weight:600;
+}
+</style>
+</head>
+<body>
+
+<div class="login-card">
+<div class="logo"><i class="fa-solid fa-dna"></i> PharmaAI</div>
+<p>Login to continue</p>
+
+<input type="email" id="email" placeholder="Email">
+<input type="password" id="password" placeholder="Password">
+
+<button onclick="login()">Login</button>
+<p id="msg"></p>
+
+<p>New user? <a href="/frontend/register.html">Create account</a></p>
+</div>
+
+<script>
+async function login(){
+
+const email=document.getElementById("email").value.trim();
+const password=document.getElementById("password").value.trim();
+const msg=document.getElementById("msg");
+
+msg.innerText="";
+
+if(!email || !password){
+msg.innerText="Please enter email & password";
+return;
+}
+
+const formData=new URLSearchParams();
+formData.append("username",email);
+formData.append("password",password);
+
+try{
+const res=await fetch("http://127.0.0.1:8000/auth/login",{
+method:"POST",
+body:formData,
+headers:{"Content-Type":"application/x-www-form-urlencoded"}
+});
+
+const data=await res.json();
+
+if(res.ok){
+
+// ✅ store session
+localStorage.setItem("token",data.access_token);
+localStorage.setItem("role",data.role);
+localStorage.setItem("user_name",data.name);
+localStorage.setItem("user_email",data.email);
+
+// ✅ go to landing page
+window.location.href="/frontend/index.html";
+
+}else{
+msg.innerText=data.detail || "Login failed";
+}
+
+}catch(err){
+msg.innerText="Server connection error";
+}
+
+}
+
+// Enter key login
+document.addEventListener("keydown", e=>{
+if(e.key==="Enter") login();
+});
+</script>
+
+</body>
+</html>

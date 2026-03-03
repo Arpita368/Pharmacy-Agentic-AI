@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PharmaAI — Intelligent Pharmacy System</title>
+    <meta name="description"
+        content="Next-generation agentic AI pharmacy management powered by machine learning for smarter healthcare.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="/frontend/css/variables.css">
+    <link rel="stylesheet" href="/frontend/css/global.css">
+    <link rel="stylesheet" href="/frontend/css/index.css">
+</head>
+
+<body>
+
+    <!-- HERO -->
+    <div class="hero-bg">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+        <div class="grid-overlay"></div>
+    </div>
+
+    <header class="site-header glass">
+        <div class="logo-brand">
+            <div class="logo-icon-sm"><i class="fa-solid fa-dna"></i></div>
+            <span>PharmaAI</span>
+        </div>
+        <nav class="site-nav" id="site-nav">
+            <a href="#features">Features</a>
+            <a href="#workflow">Workflow</a>
+            <a href="#stats">Impact</a>
+        </nav>
+        <div class="header-actions">
+            <button id="theme-toggle" class="btn-icon" aria-label="Toggle theme"><i
+                    class="fa-solid fa-moon"></i></button>
+            <a href="/frontend/dashboard.html" class="btn btn-primary" target="_blank">Launch App <i
+                    class="fa-solid fa-arrow-right"></i></a>
+            <button class="btn-icon hamburger" id="nav-hamburger" aria-label="Menu"><i
+                    class="fa-solid fa-bars"></i></button>
+        </div>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero-section">
+        <div class="hero-badge">
+            <span class="dot dot-green"></span> AI-Powered Healthcare Platform
+        </div>
+        <h1 class="hero-title">The Future of<br><span class="gradient-text">Clinical Intelligence</span></h1>
+        <p class="hero-subtitle">Digital Pharmacist Assistant that manages inventory, analyzes prescriptions, predicts
+            restocks, and
+            processes orders — with clinical expertise.</p>
+        <div class="hero-actions">
+            <!--a href="/frontend/dashboard.html" class="btn btn-primary btn-lg">
+                <i class="fa-solid fa-rocket"></i> Enter as User
+            </a-->
+            <a href="/frontend/dashboard_admin.html" class="btn btn-primary btn-lg">
+                <i class="fa-solid fa-rocket"></i> Enter Dashboard
+            </a>
+            <!-- <a href="#features" class="btn btn-ghost btn-lg">
+                <i class="fa-solid fa-play"></i> Watch Demo
+            </a> -->
+        </div>
+        <div class="hero-stats">
+            <div class="hero-stat"><strong id="counter-1">89</strong><span>Medicines Tracked</span></div>
+            <div class="hero-stat-divider"></div>
+            <div class="hero-stat"><strong id="counter-2">2</strong><span>Rx Processed</span></div>
+            <div class="hero-stat-divider"></div>
+            <div class="hero-stat"><strong id="counter-3">303</strong><span>AI Interactions</span></div>
+        </div>
+    </section>
+
+    <!-- FEATURES -->
+    <section class="features-section" id="features">
+        <div class="section-label">Core Capabilities</div>
+        <h2 class="section-title">Everything you need to run a <span class="gradient-text">smart pharmacy</span></h2>
+        <div class="features-grid">
+            <a href="/frontend/dashboard.html" class="feature-card glass feature-card-link">
+                <div class="feature-icon teal"><i class="fa-solid fa-user-nurse"></i></div>
+                <h3>Digital Pharmacist</h3>
+                <p>Consultative AI assistant. Ask about stock, safety tips, or clinical pricing — get expert clinical
+                    answers.
+                </p>
+                <div class="feature-link">Open Consult <i class="fa-solid fa-arrow-right"></i></div>
+            </a>
+            <a href="/frontend/inventory.html" class="feature-card glass feature-card-link">
+                <div class="feature-icon green"><i class="fa-solid fa-pills"></i></div>
+                <h3>Smart Inventory</h3>
+                <p>Real-time stock tracking with automatic low-stock alerts, CRUD operations, and smart search.</p>
+                <div class="feature-link">Manage Stock <i class="fa-solid fa-arrow-right"></i></div>
+            </a>
+            <a href="/frontend/analytics.html" class="feature-card glass feature-card-link">
+                <div class="feature-icon teal"><i class="fa-solid fa-chart-line"></i></div>
+                <h3>Analytics Dashboard</h3>
+                <p>Visual charts for monthly trends, category performance, and revenue insights updated live.</p>
+                <div class="feature-link">View Analytics <i class="fa-solid fa-arrow-right"></i></div>
+            </a>
+            <a href="/frontend/scanner.html" class="feature-card glass feature-card-link">
+                <div class="feature-icon green"><i class="fa-solid fa-file-prescription"></i></div>
+                <h3>Rx AI Scanner</h3>
+                <p>Upload a prescription — AI extracts medicines, doses, and flags potential drug interactions.</p>
+                <div class="feature-link">Scan Prescription <i class="fa-solid fa-arrow-right"></i></div>
+            </a>
+            <a href="/frontend/orders.html" class="feature-card glass feature-card-link">
+                <div class="feature-icon teal"><i class="fa-solid fa-receipt"></i></div>
+                <h3>Order Summary</h3>
+                <p>Review AI-validated orders, upload required prescriptions, and confirm with full transparency.</p>
+                <div class="feature-link">View Orders <i class="fa-solid fa-arrow-right"></i></div>
+            </a>
+            <div class="feature-card glass feature-card-highlight">
+                <div class="feature-icon green"><i class="fa-solid fa-microchip-ai"></i></div>
+                <h3>Predictive Restocking</h3>
+                <p>Machine learning models analyze purchase history to predict future medicine demand before stock runs
+                    out.</p>
+                <span class="badge badge-teal">Coming Soon</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- WORKFLOW -->
+    <section class="workflow-section" id="workflow">
+        <div class="section-label">How It Works</div>
+        <h2 class="section-title">Simple, <span class="gradient-text">Intelligent</span> Workflow</h2>
+        <div class="workflow-steps">
+            <div class="step">
+                <div class="step-num">01</div>
+                <div class="step-body">
+                    <h4>Upload Prescription</h4>
+                    <p>Drag & drop a prescription. Our AI extracts medicine names, dosage, and frequency in seconds.</p>
+                </div>
+            </div>
+            <div class="step-arrow"><i class="fa-solid fa-arrow-right"></i></div>
+            <div class="step">
+                <div class="step-num">02</div>
+                <div class="step-body">
+                    <h4>AI Validates Stock</h4>
+                    <p>The pharmacist cross-checks inventory, flags substitutes for out-of-stock items, and detects drug
+                        interactions.</p>
+                </div>
+            </div>
+            <div class="step-arrow"><i class="fa-solid fa-arrow-right"></i></div>
+            <div class="step">
+                <div class="step-num">03</div>
+                <div class="step-body">
+                    <h4>Confirm & Fulfil</h4>
+                    <p>Review the smart order summary and confirm. The system updates inventory and logs the
+                        transaction.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- STATS -->
+    <section class="stats-section" id="stats">
+        <div class="stats-grid">
+            <div class="impact-card glass">
+                <div class="impact-num teal-text">98%</div>
+                <div class="impact-label">Prescription Accuracy</div>
+            </div>
+            <div class="impact-card glass">
+                <div class="impact-num green-text">3x</div>
+                <div class="impact-label">Faster Order Processing</div>
+            </div>
+            <div class="impact-card glass">
+                <div class="impact-num teal-text">40%</div>
+                <div class="impact-label">Reduction in Stock Waste</div>
+            </div>
+            <div class="impact-card glass">
+                <div class="impact-num green-text">24/7</div>
+                <div class="impact-label">AI-Powered Operations</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+        <div class="cta-box glass">
+            <h2>Ready to transform your pharmacy?</h2>
+            <p>Start managing smarter with AI today. No setup required.</p>
+            <a href="dashboard.html" class="btn btn-primary btn-lg">
+                Get Started Free <i class="fa-solid fa-arrow-right"></i>
+            </a>
+        </div>
+    </section>
+
+    <footer class="site-footer">
+        <div class="footer-brand">
+            <div class="logo-icon-sm"><i class="fa-solid fa-dna"></i></div>
+            <span>PharmaAI</span>
+        </div>
+        <p>Built for Hackathon 2026 · AI-Powered Pharmacy Management</p>
+    </footer>
+
+    <script src="js/shared.js"></script>
+    <script src="css/../js/index.js"></script>
+</body>
+
+</html>
