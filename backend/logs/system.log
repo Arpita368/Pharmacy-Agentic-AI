@@ -1,0 +1,1947 @@
+[2026-02-15 11:11:23] [USER_QUERY] omega
+[2026-02-15 11:11:23] [INTENT_DETECTED] search_product | keyword=omega
+[2026-02-15 11:11:23] [SEARCH] omega
+[2026-02-15 11:14:26] [USER_QUERY] paracetamol
+[2026-02-15 11:14:26] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 11:14:26] [SEARCH] paracetamol
+[2026-02-15 11:14:28] [USER_QUERY] 
+[2026-02-15 11:14:28] [INTENT_DETECTED] search_product | keyword=
+[2026-02-15 11:14:28] [SEARCH] 
+[2026-02-15 11:14:31] [USER_QUERY] paracetamol
+[2026-02-15 11:14:31] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 11:14:31] [SEARCH] paracetamol
+[2026-02-15 11:14:33] [USER_QUERY] 
+[2026-02-15 11:14:33] [INTENT_DETECTED] search_product | keyword=
+[2026-02-15 11:14:33] [SEARCH] 
+[2026-02-15 11:14:42] [USER_QUERY] paracetamol
+[2026-02-15 11:14:42] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 11:14:42] [SEARCH] paracetamol
+[2026-02-15 11:14:45] [USER_QUERY] omega
+[2026-02-15 11:14:45] [INTENT_DETECTED] search_product | keyword=omega
+[2026-02-15 11:14:45] [SEARCH] omega
+[2026-02-15 11:20:20] [USER_QUERY] omega
+[2026-02-15 11:20:20] [INTENT_DETECTED] search_product | keyword=omega
+[2026-02-15 11:20:20] [SEARCH] omega
+[2026-02-15 11:20:21] [USER_QUERY] 
+[2026-02-15 11:20:21] [INTENT_DETECTED] search_product | keyword=
+[2026-02-15 11:20:21] [SEARCH] 
+[2026-02-15 11:20:23] [USER_QUERY] 
+[2026-02-15 11:20:23] [INTENT_DETECTED] search_product | keyword=
+[2026-02-15 11:20:23] [SEARCH] 
+[2026-02-15 11:20:24] [USER_QUERY] 
+[2026-02-15 11:20:24] [INTENT_DETECTED] search_product | keyword=
+[2026-02-15 11:20:24] [SEARCH] 
+[2026-02-15 11:20:25] [USER_QUERY] 
+[2026-02-15 11:20:25] [INTENT_DETECTED] search_product | keyword=
+[2026-02-15 11:20:25] [SEARCH] 
+[2026-02-15 11:20:32] [USER_QUERY] 
+[2026-02-15 11:20:32] [INTENT_DETECTED] search_product | keyword=
+[2026-02-15 11:20:32] [SEARCH] 
+[2026-02-15 11:37:40] [USER_QUERY] i have headache
+[2026-02-15 11:37:40] [INTENT_DETECTED] search_product | keyword=have headache
+[2026-02-15 11:37:40] [SEARCH] have headache
+[2026-02-15 11:38:02] [USER_QUERY] which medicine for cold
+[2026-02-15 11:38:02] [INTENT_DETECTED] search_product | keyword=which medicine for cold
+[2026-02-15 11:38:02] [SEARCH] which medicine for cold
+[2026-02-15 11:38:18] [USER_QUERY] how to reduce fever
+[2026-02-15 11:38:18] [INTENT_DETECTED] search_product | keyword=how reduce fever
+[2026-02-15 11:38:18] [SEARCH] how reduce fever
+[2026-02-15 11:49:03] [USER_QUERY] paracetamol
+[2026-02-15 11:49:03] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 11:49:03] [SEARCH] paracetamol
+[2026-02-15 11:49:10] [USER_QUERY] omega
+[2026-02-15 11:49:10] [INTENT_DETECTED] search_product | keyword=omega
+[2026-02-15 11:49:10] [SEARCH] omega
+[2026-02-15 11:49:15] [USER_QUERY] omega
+[2026-02-15 11:49:15] [INTENT_DETECTED] search_product | keyword=omega
+[2026-02-15 11:49:15] [SEARCH] omega
+[2026-02-15 11:51:24] [USER_QUERY] heart
+[2026-02-15 11:51:24] [INTENT_DETECTED] search_product | keyword=heart
+[2026-02-15 11:51:24] [SEARCH] heart
+[2026-02-15 11:54:23] [USER_QUERY] paracetamol
+[2026-02-15 11:54:23] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 11:54:23] [SEARCH] paracetamol
+[2026-02-15 11:54:31] [USER_QUERY] heart
+[2026-02-15 11:54:31] [INTENT_DETECTED] search_product | keyword=heart
+[2026-02-15 11:54:31] [SEARCH] heart
+[2026-02-15 11:54:58] [USER_QUERY] omega
+[2026-02-15 11:54:58] [INTENT_DETECTED] search_product | keyword=omega
+[2026-02-15 11:54:58] [SEARCH] omega
+[2026-02-15 11:59:32] [USER_QUERY] omega
+[2026-02-15 11:59:32] [INTENT_DETECTED] search_product | keyword=omega
+[2026-02-15 11:59:32] [SEARCH] omega
+[2026-02-15 11:59:36] [USER_QUERY] paracetamol
+[2026-02-15 11:59:36] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 11:59:36] [SEARCH] paracetamol
+[2026-02-15 11:59:42] [USER_QUERY] heart
+[2026-02-15 11:59:42] [INTENT_DETECTED] search_product | keyword=heart
+[2026-02-15 11:59:42] [SEARCH] heart
+[2026-02-15 12:02:02] [USER_QUERY] heart
+[2026-02-15 12:02:02] [INTENT_DETECTED] search_product | keyword=heart
+[2026-02-15 12:02:02] [SEARCH] heart
+[2026-02-15 12:02:09] [USER_QUERY] paracetamol
+[2026-02-15 12:02:09] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 12:02:09] [SEARCH] paracetamol
+[2026-02-15 12:03:38] [USER_QUERY] paracetamol
+[2026-02-15 12:03:38] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 12:03:38] [SEARCH] paracetamol
+[2026-02-15 12:08:22] [USER_QUERY] paracetamol
+[2026-02-15 12:08:22] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-15 12:08:22] [SEARCH] paracetamol
+[2026-02-19 16:25:21] [USER_QUERY] order crocin
+[2026-02-19 16:25:21] [INTENT_DETECTED] order_product | keyword=crocin
+[2026-02-19 16:25:21] [ORDER_ATTEMPT] crocin
+[2026-02-19 16:25:21] [ORDER_FAILED] Validation failed
+[2026-02-19 16:29:18] [USER_QUERY] order paracetamol
+[2026-02-19 16:29:18] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-19 16:29:18] [ORDER_ATTEMPT] paracetamol
+[2026-02-19 16:29:39] [USER_QUERY] order paracetamol 500
+[2026-02-19 16:29:39] [INTENT_DETECTED] order_product | keyword=paracetamol 500
+[2026-02-19 16:29:39] [ORDER_ATTEMPT] paracetamol 500
+[2026-02-19 16:29:39] [ORDER_FAILED] Validation failed
+[2026-02-19 16:30:54] [USER_QUERY] paracetamol
+[2026-02-19 16:30:54] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-19 16:30:54] [SEARCH] paracetamol
+[2026-02-19 16:32:58] [USER_QUERY] order paracetamol
+[2026-02-19 16:32:58] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-19 16:32:58] [ORDER_ATTEMPT] paracetamol
+[2026-02-19 16:49:46] [USER_QUERY] order insulin
+[2026-02-19 16:49:46] [INTENT_DETECTED] order_product | keyword=insulin
+[2026-02-19 16:49:46] [ORDER_ATTEMPT] insulin
+[2026-02-19 16:49:46] [ORDER_FAILED] Validation failed
+[2026-02-19 20:13:21] [USER_QUERY] paracetamol
+[2026-02-19 20:13:21] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-19 20:13:21] [SEARCH] paracetamol
+[2026-02-19 20:13:53] [USER_QUERY] order paracetamol
+[2026-02-19 20:13:53] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-19 20:13:53] [ORDER_ATTEMPT] paracetamol
+[2026-02-19 20:13:53] [ORDER_FAILED] Validation failed
+[2026-02-19 20:14:14] [USER_QUERY] order antibiotic
+[2026-02-19 20:14:14] [INTENT_DETECTED] order_product | keyword=antibiotic
+[2026-02-19 20:14:14] [ORDER_ATTEMPT] antibiotic
+[2026-02-19 20:14:14] [ORDER_FAILED] Validation failed
+[2026-02-19 20:14:36] [USER_QUERY] order paracetamol 50
+[2026-02-19 20:14:36] [INTENT_DETECTED] order_product | keyword=paracetamol 50
+[2026-02-19 20:14:37] [ORDER_ATTEMPT] paracetamol 50
+[2026-02-19 20:14:37] [ORDER_FAILED] Validation failed
+[2026-02-19 20:52:08] [USER_QUERY] order paracetamol
+[2026-02-19 20:52:08] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-19 20:52:08] [ORDER_ATTEMPT] paracetamol
+[2026-02-19 20:52:08] [ORDER_FAILED] Validation failed
+[2026-02-19 20:54:13] [USER_QUERY] order paracetamol
+[2026-02-19 20:54:13] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-19 20:54:13] [ORDER_ATTEMPT] paracetamol
+[2026-02-19 20:54:13] [ORDER_FAILED] Validation failed
+[2026-02-19 20:57:33] [USER_QUERY] order paracetamol
+[2026-02-19 20:57:33] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-19 20:57:33] [ORDER_ATTEMPT] paracetamol
+[2026-02-19 20:57:33] [ORDER_FAILED] Validation failed
+[2026-02-19 21:19:22] [USER_QUERY] order paracetamol
+[2026-02-19 21:19:22] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-19 21:19:22] [ORDER_ATTEMPT] paracetamol
+[2026-02-19 21:19:22] [ORDER_FAILED] Validation failed
+[2026-02-19 21:30:12] [USER_QUERY] order paracetamol
+[2026-02-19 21:30:12] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-19 21:30:12] [ORDER_ATTEMPT] paracetamol
+[2026-02-19 21:30:12] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 13:57:37] [USER_QUERY] order paracetamol
+[2026-02-20 13:57:37] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 13:57:37] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 13:57:37] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 15:54:12] [PROCUREMENT] Auto-ordered: Dolo 650
+[2026-02-20 15:56:20] [USER_QUERY] order dolo 650
+[2026-02-20 15:56:20] [INTENT_DETECTED] order_product | keyword=dolo 650
+[2026-02-20 15:56:20] [ORDER_ATTEMPT] dolo 650
+[2026-02-20 15:56:20] [ORDER_FAILED] Product not found
+[2026-02-20 15:57:48] [USER_QUERY] order Dolo 650 Tablet
+[2026-02-20 15:57:48] [INTENT_DETECTED] order_product | keyword=dolo 650 tablet
+[2026-02-20 15:57:48] [ORDER_ATTEMPT] dolo 650 tablet
+[2026-02-20 15:57:48] [ORDER_FAILED] Product not found
+[2026-02-20 15:59:54] [USER_QUERY] order paracetamol
+[2026-02-20 15:59:54] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 15:59:54] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 15:59:54] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 16:47:10] [USER_QUERY] order paracetamol
+[2026-02-20 16:47:10] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 16:47:10] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 16:47:10] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 17:53:20] [USER_QUERY] order paracetamol
+[2026-02-20 17:53:20] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 17:53:20] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 17:53:20] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 17:58:30] [USER_QUERY] order paracetamol
+[2026-02-20 17:58:30] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 17:58:30] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 17:58:30] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 17:58:41] [USER_QUERY] order paracetamol
+[2026-02-20 17:58:41] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 17:58:41] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 17:58:41] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 17:58:46] [USER_QUERY] order paracetamol
+[2026-02-20 17:58:46] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 17:58:46] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 17:58:46] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:08:48] [USER_QUERY] order paracetamol
+[2026-02-20 18:08:48] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:08:48] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:08:48] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:09:03] [USER_QUERY] order paracetamol
+[2026-02-20 18:09:03] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:09:03] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:09:03] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:09:13] [USER_QUERY] Do you have Amoxicillin 500mg in stock?
+[2026-02-20 18:09:13] [INTENT_DETECTED] search_product | keyword=do you have amoxicillin 500mg in stock
+[2026-02-20 18:09:13] [SEARCH] do you have amoxicillin 500mg in stock
+[2026-02-20 18:09:15] [USER_QUERY] Do you have Amoxicillin 500mg in stock?
+[2026-02-20 18:09:15] [INTENT_DETECTED] search_product | keyword=do you have amoxicillin 500mg in stock
+[2026-02-20 18:09:15] [SEARCH] do you have amoxicillin 500mg in stock
+[2026-02-20 18:09:18] [USER_QUERY] What medicines are low on stock?
+[2026-02-20 18:09:18] [INTENT_DETECTED] search_product | keyword=what medicines are low on stock
+[2026-02-20 18:09:18] [SEARCH] what medicines are low on stock
+[2026-02-20 18:09:19] [USER_QUERY] How much does Atorvastatin cost?
+[2026-02-20 18:09:19] [INTENT_DETECTED] search_product | keyword=how much does atorvastatin cost
+[2026-02-20 18:09:19] [SEARCH] how much does atorvastatin cost
+[2026-02-20 18:09:21] [USER_QUERY] Are there any drug interaction warnings today?
+[2026-02-20 18:09:21] [INTENT_DETECTED] search_product | keyword=are there any drug interaction warnings today
+[2026-02-20 18:09:21] [SEARCH] are there any drug interaction warnings today
+[2026-02-20 18:09:21] [USER_QUERY] Are there any drug interaction warnings today?
+[2026-02-20 18:09:21] [INTENT_DETECTED] search_product | keyword=are there any drug interaction warnings today
+[2026-02-20 18:09:21] [SEARCH] are there any drug interaction warnings today
+[2026-02-20 18:09:23] [USER_QUERY] Are there any drug interaction warnings today?
+[2026-02-20 18:09:23] [INTENT_DETECTED] search_product | keyword=are there any drug interaction warnings today
+[2026-02-20 18:09:23] [SEARCH] are there any drug interaction warnings today
+[2026-02-20 18:10:44] [USER_QUERY] order paracetamol
+[2026-02-20 18:10:44] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:10:44] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:10:44] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:12:10] [USER_QUERY] order paracetamol
+[2026-02-20 18:12:10] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:12:10] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:12:10] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:15:54] [USER_QUERY] hii
+[2026-02-20 18:15:54] [INTENT_DETECTED] search_product | keyword=hii
+[2026-02-20 18:15:54] [SEARCH] hii
+[2026-02-20 18:15:59] [USER_QUERY] hii
+[2026-02-20 18:15:59] [INTENT_DETECTED] search_product | keyword=hii
+[2026-02-20 18:15:59] [SEARCH] hii
+[2026-02-20 18:16:04] [USER_QUERY] hiii
+[2026-02-20 18:16:04] [INTENT_DETECTED] search_product | keyword=hiii
+[2026-02-20 18:16:04] [SEARCH] hiii
+[2026-02-20 18:16:15] [USER_QUERY] hiiii
+[2026-02-20 18:16:15] [INTENT_DETECTED] search_product | keyword=hiiii
+[2026-02-20 18:16:15] [SEARCH] hiiii
+[2026-02-20 18:16:51] [USER_QUERY] order paracetamol
+[2026-02-20 18:16:51] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:16:51] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:16:51] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:22:47] [USER_QUERY] order paracetamol
+[2026-02-20 18:22:47] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:22:47] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:22:47] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:22:59] [USER_QUERY] order paracetamol
+[2026-02-20 18:22:59] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:22:59] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:22:59] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:23:16] [USER_QUERY] order paracetamol
+[2026-02-20 18:23:16] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:23:16] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:23:16] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:23:35] [USER_QUERY] order paracetamol
+[2026-02-20 18:23:35] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:23:35] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:23:35] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:28:10] [USER_QUERY] order paracetamol
+[2026-02-20 18:28:10] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:28:10] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:28:10] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:28:23] [USER_QUERY] order paracetamol
+[2026-02-20 18:28:23] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:28:23] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:28:23] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:29:02] [USER_QUERY] order paracetamol
+[2026-02-20 18:29:02] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:29:02] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:29:02] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:33:25] [USER_QUERY] order paracetamol
+[2026-02-20 18:33:25] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:33:25] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:33:25] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-20 18:33:40] [USER_QUERY] order paracetamol
+[2026-02-20 18:33:40] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-20 18:33:40] [ORDER_ATTEMPT] paracetamol
+[2026-02-20 18:33:40] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-21 20:42:45] [USER_QUERY] sahdkajkdka
+[2026-02-21 20:42:45] [INTENT_DETECTED] search_product | keyword=sahdkajkdka
+[2026-02-21 20:42:45] [SEARCH] sahdkajkdka
+[2026-02-21 20:42:48] [USER_QUERY] sadjkads
+[2026-02-21 20:42:48] [INTENT_DETECTED] search_product | keyword=sadjkads
+[2026-02-21 20:42:48] [SEARCH] sadjkads
+[2026-02-21 20:42:52] [USER_QUERY] paracetamol
+[2026-02-21 20:42:52] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-21 20:42:52] [SEARCH] paracetamol
+[2026-02-21 20:43:00] [USER_QUERY] Do you have Amoxicillin 500mg in stock?
+[2026-02-21 20:43:00] [INTENT_DETECTED] search_product | keyword=do you have amoxicillin 500mg in stock
+[2026-02-21 20:43:00] [SEARCH] do you have amoxicillin 500mg in stock
+[2026-02-21 20:43:04] [USER_QUERY] What medicines are low on stock?
+[2026-02-21 20:43:04] [INTENT_DETECTED] search_product | keyword=what medicines are low on stock
+[2026-02-21 20:43:04] [SEARCH] what medicines are low on stock
+[2026-02-21 20:51:05] [USER_QUERY] sjfjaskf
+[2026-02-21 20:51:05] [INTENT_DETECTED] search_product | keyword=sjfjaskf
+[2026-02-21 20:51:05] [SEARCH] sjfjaskf
+[2026-02-21 20:51:06] [USER_QUERY] adfkjdgk
+[2026-02-21 20:51:06] [INTENT_DETECTED] search_product | keyword=adfkjdgk
+[2026-02-21 20:51:06] [SEARCH] adfkjdgk
+[2026-02-21 20:51:07] [USER_QUERY] dsjkkdsfh
+[2026-02-21 20:51:07] [INTENT_DETECTED] search_product | keyword=dsjkkdsfh
+[2026-02-21 20:51:07] [SEARCH] dsjkkdsfh
+[2026-02-21 20:51:08] [USER_QUERY] jfsadjhdfj
+[2026-02-21 20:51:08] [INTENT_DETECTED] search_product | keyword=jfsadjhdfj
+[2026-02-21 20:51:08] [SEARCH] jfsadjhdfj
+[2026-02-21 20:51:09] [USER_QUERY] dskjfjhfksad
+[2026-02-21 20:51:09] [INTENT_DETECTED] search_product | keyword=dskjfjhfksad
+[2026-02-21 20:51:09] [SEARCH] dskjfjhfksad
+[2026-02-21 20:51:10] [USER_QUERY] ndfskajfdskjfhk
+[2026-02-21 20:51:10] [INTENT_DETECTED] search_product | keyword=ndfskajfdskjfhk
+[2026-02-21 20:51:10] [SEARCH] ndfskajfdskjfhk
+[2026-02-21 23:21:15] [USER_QUERY] fgddht
+[2026-02-21 23:21:15] [INTENT_DETECTED] search_product | keyword=fgddht
+[2026-02-21 23:21:15] [SEARCH] fgddht
+[2026-02-21 23:21:23] [USER_QUERY] i want paracetamol
+[2026-02-21 23:21:23] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-21 23:21:23] [SEARCH] paracetamol
+[2026-02-21 23:23:09] [USER_QUERY] buy paracetamol
+[2026-02-21 23:23:09] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-21 23:23:09] [ORDER_ATTEMPT] paracetamol
+[2026-02-21 23:23:09] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-21 23:24:01] [USER_QUERY] i want to buy 5 paracetamol
+[2026-02-21 23:24:01] [INTENT_DETECTED] order_product | keyword=5 paracetamol
+[2026-02-21 23:24:01] [ORDER_ATTEMPT] 5 paracetamol
+[2026-02-21 23:24:01] [ORDER_FAILED] Product not found
+[2026-02-21 23:24:43] [USER_QUERY] purchase minoxidil
+[2026-02-21 23:24:43] [INTENT_DETECTED] order_product | keyword=minoxidil
+[2026-02-21 23:24:43] [ORDER_ATTEMPT] minoxidil
+[2026-02-21 23:24:43] [ORDER_SUCCESS] Minoxidil BIO-H-TIN-Pharma 20 mg/ml Spray zur Anwendung auf der Haut (Kopfhaut), Lösung
+[2026-02-21 23:27:19] [USER_QUERY] i have fever
+[2026-02-21 23:27:19] [INTENT_DETECTED] search_product | keyword=have fever
+[2026-02-21 23:27:19] [SEARCH] have fever
+[2026-02-22 02:42:22] [USER_QUERY] show minoxidil
+[2026-02-22 02:42:22] [INTENT_DETECTED] search_product | keyword=show minoxidil
+[2026-02-22 02:42:22] [SEARCH] show minoxidil
+[2026-02-22 02:42:32] [USER_QUERY] purchase minoxidil
+[2026-02-22 02:42:32] [INTENT_DETECTED] order_product | keyword=minoxidil
+[2026-02-22 02:42:32] [ORDER_ATTEMPT] minoxidil
+[2026-02-22 02:42:32] [ORDER_SUCCESS] Minoxidil BIO-H-TIN-Pharma 20 mg/ml Spray zur Anwendung auf der Haut (Kopfhaut), Lösung
+[2026-02-22 02:42:52] [USER_QUERY] How much does Atorvastatin cost?
+[2026-02-22 02:42:52] [INTENT_DETECTED] search_product | keyword=how much does atorvastatin cost
+[2026-02-22 02:42:52] [SEARCH] how much does atorvastatin cost
+[2026-02-22 02:42:55] [USER_QUERY] What medicines are low on stock?
+[2026-02-22 02:42:55] [INTENT_DETECTED] search_product | keyword=what medicines are low on stock
+[2026-02-22 02:42:55] [SEARCH] what medicines are low on stock
+[2026-02-22 02:42:58] [USER_QUERY] Do you have Amoxicillin 500mg in stock?
+[2026-02-22 02:42:58] [INTENT_DETECTED] search_product | keyword=do you have amoxicillin 500mg in stock
+[2026-02-22 02:42:58] [SEARCH] do you have amoxicillin 500mg in stock
+[2026-02-22 03:11:10] [USER_QUERY] i want paracetamol
+[2026-02-22 03:11:10] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-22 03:11:10] [SEARCH] paracetamol
+[2026-02-22 03:11:42] [USER_QUERY] i want 1 bottle of minoxidil
+[2026-02-22 03:11:42] [INTENT_DETECTED] search_product | keyword=1 bottle of minoxidil
+[2026-02-22 03:11:42] [SEARCH] 1 bottle of minoxidil
+[2026-02-22 03:11:55] [USER_QUERY] buy paracetamol
+[2026-02-22 03:11:55] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 03:11:55] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 03:11:55] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-22 03:17:50] [USER_QUERY] Show me Amoxicillin 500mg
+[2026-02-22 03:17:50] [INTENT_DETECTED] search_product | keyword=show amoxicillin 500mg
+[2026-02-22 03:17:50] [SEARCH] show amoxicillin 500mg
+[2026-02-22 03:18:01] [USER_QUERY] i want paracetamol
+[2026-02-22 03:18:01] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-22 03:18:01] [SEARCH] paracetamol
+[2026-02-22 03:23:43] [USER_QUERY] i want paracetamol
+[2026-02-22 03:23:43] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-22 03:23:43] [SEARCH] paracetamol
+[2026-02-22 03:23:49] [USER_QUERY] afg
+[2026-02-22 03:23:49] [INTENT_DETECTED] search_product | keyword=afg
+[2026-02-22 03:23:49] [SEARCH] afg
+[2026-02-22 03:23:50] [USER_QUERY] gfgr
+[2026-02-22 03:23:50] [INTENT_DETECTED] search_product | keyword=gfgr
+[2026-02-22 03:23:50] [SEARCH] gfgr
+[2026-02-22 03:24:05] [USER_QUERY] fghgfhh
+[2026-02-22 03:24:05] [INTENT_DETECTED] search_product | keyword=fghgfhh
+[2026-02-22 03:24:05] [SEARCH] fghgfhh
+[2026-02-22 03:26:39] [USER_QUERY] i want paracetamol
+[2026-02-22 03:26:39] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-22 03:26:39] [SEARCH] paracetamol
+[2026-02-22 03:35:33] [USER_QUERY] i want paracetamol
+[2026-02-22 03:35:33] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-22 03:35:33] [SEARCH] paracetamol
+[2026-02-22 03:35:47] [USER_QUERY] minoxidil
+[2026-02-22 03:35:47] [INTENT_DETECTED] search_product | keyword=minoxidil
+[2026-02-22 03:35:47] [SEARCH] minoxidil
+[2026-02-22 03:35:54] [USER_QUERY] omega 3
+[2026-02-22 03:35:54] [INTENT_DETECTED] search_product | keyword=omega 3
+[2026-02-22 03:35:54] [SEARCH] omega 3
+[2026-02-22 03:36:06] [USER_QUERY] vegan omega 3
+[2026-02-22 03:36:06] [INTENT_DETECTED] search_product | keyword=vegan omega 3
+[2026-02-22 03:36:06] [SEARCH] vegan omega 3
+[2026-02-22 03:36:28] [USER_QUERY] i have fever
+[2026-02-22 03:36:28] [INTENT_DETECTED] search_product | keyword=have fever
+[2026-02-22 03:36:28] [SEARCH] have fever
+[2026-02-22 03:50:33] [USER_QUERY] paracetamol
+[2026-02-22 03:50:33] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-22 03:50:33] [SEARCH] paracetamol
+[2026-02-22 03:57:35] [USER_QUERY] creme
+[2026-02-22 03:57:35] [INTENT_DETECTED] search_product | keyword=creme
+[2026-02-22 03:57:35] [SEARCH] creme
+[2026-02-22 03:57:46] [USER_QUERY] order creme
+[2026-02-22 03:57:46] [INTENT_DETECTED] order_product | keyword=creme
+[2026-02-22 03:57:46] [ORDER_ATTEMPT] creme
+[2026-02-22 03:57:46] [ORDER_SUCCESS] FeniHydrocort Creme 0,25 %
+[2026-02-22 03:58:08] [USER_QUERY] order natural creme
+[2026-02-22 03:58:08] [INTENT_DETECTED] order_product | keyword=natural creme
+[2026-02-22 03:58:08] [ORDER_ATTEMPT] natural creme
+[2026-02-22 03:58:08] [ORDER_FAILED] Product not found
+[2026-02-22 03:58:21] [USER_QUERY] buy natural creme
+[2026-02-22 03:58:21] [INTENT_DETECTED] order_product | keyword=natural creme
+[2026-02-22 03:58:21] [ORDER_ATTEMPT] natural creme
+[2026-02-22 03:58:21] [ORDER_FAILED] Product not found
+[2026-02-22 03:58:40] [USER_QUERY] buy natural intimate creme
+[2026-02-22 03:58:40] [INTENT_DETECTED] order_product | keyword=natural intimate creme
+[2026-02-22 03:58:40] [ORDER_ATTEMPT] natural intimate creme
+[2026-02-22 03:58:41] [ORDER_SUCCESS] Natural Intimate Creme
+[2026-02-22 04:04:14] [USER_QUERY] poison
+[2026-02-22 04:04:14] [INTENT_DETECTED] search_product | keyword=poison
+[2026-02-22 04:04:14] [SEARCH] poison
+[2026-02-22 04:11:56] [USER_QUERY] i want to order natural creme
+[2026-02-22 04:11:56] [INTENT_DETECTED] order_product | keyword=natural creme
+[2026-02-22 04:11:56] [ORDER_ATTEMPT] natural creme
+[2026-02-22 04:11:56] [ORDER_FAILED] Product not found
+[2026-02-22 04:12:08] [USER_QUERY] buy natural creme
+[2026-02-22 04:12:08] [INTENT_DETECTED] order_product | keyword=natural creme
+[2026-02-22 04:12:08] [ORDER_ATTEMPT] natural creme
+[2026-02-22 04:12:08] [ORDER_FAILED] Product not found
+[2026-02-22 04:12:18] [USER_QUERY] buy natural intimate creme
+[2026-02-22 04:12:18] [INTENT_DETECTED] order_product | keyword=natural intimate creme
+[2026-02-22 04:12:18] [ORDER_ATTEMPT] natural intimate creme
+[2026-02-22 04:12:18] [ORDER_SUCCESS] Natural Intimate Creme
+[2026-02-22 04:12:27] [USER_QUERY] buy paracetamol
+[2026-02-22 04:12:27] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 04:12:27] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 04:12:27] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-22 14:01:58] [USER_QUERY] i want paracetamol
+[2026-02-22 14:01:58] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 14:01:58] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 14:01:58] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-22 14:02:16] [USER_QUERY] do you have some cremee
+[2026-02-22 14:02:16] [INTENT_DETECTED] search_product | keyword=do you have some cremee
+[2026-02-22 14:02:16] [SEARCH] do you have some cremee
+[2026-02-22 14:12:27] [USER_QUERY] so you have paracetamol
+[2026-02-22 14:12:27] [INTENT_DETECTED] search_product | keyword=so you have paracetamol
+[2026-02-22 14:12:27] [SEARCH] so you have paracetamol
+[2026-02-22 14:16:04] [USER_QUERY] ok i want to order paracetamol
+[2026-02-22 14:16:04] [INTENT_DETECTED] order_product | keyword=ok   paracetamol
+[2026-02-22 14:16:04] [ORDER_ATTEMPT] ok   paracetamol
+[2026-02-22 14:16:04] [ORDER_FAILED] Product not found
+[2026-02-22 14:28:17] [USER_QUERY] do you have omega 3 total
+[2026-02-22 14:28:17] [INTENT_DETECTED] search_product | keyword=do you have omega 3 total
+[2026-02-22 14:28:17] [SEARCH] do you have omega 3 total
+[2026-02-22 14:39:20] [USER_QUERY] do you have minoxidil?
+[2026-02-22 14:39:20] [INTENT_DETECTED] search_product | keyword=do you have minoxidil
+[2026-02-22 14:39:20] [SEARCH] do you have minoxidil
+[2026-02-22 14:42:46] [USER_QUERY] do you have minoxidil
+[2026-02-22 14:42:46] [INTENT_DETECTED] search_product | keyword=do you have minoxidil
+[2026-02-22 14:42:46] [SEARCH] do you have minoxidil
+[2026-02-22 15:03:50] [USER_QUERY] do you have paracetamol
+[2026-02-22 15:03:50] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-22 15:03:50] [SEARCH] do you have paracetamol
+[2026-02-22 15:04:00] [USER_QUERY] kjdrbkhxf
+[2026-02-22 15:04:00] [INTENT_DETECTED] search_product | keyword=kjdrbkhxf
+[2026-02-22 15:04:00] [SEARCH] kjdrbkhxf
+[2026-02-22 15:04:21] [USER_QUERY] i want to buy kijimea reizdarm pro
+[2026-02-22 15:04:21] [INTENT_DETECTED] order_product | keyword=kijimea reizdarm pro
+[2026-02-22 15:04:21] [ORDER_ATTEMPT] kijimea reizdarm pro
+[2026-02-22 15:04:21] [ORDER_SUCCESS] Kijimea Reizdarm PRO
+[2026-02-22 15:06:23] [USER_QUERY] jiuuyiyu
+[2026-02-22 15:06:23] [INTENT_DETECTED] search_product | keyword=jiuuyiyu
+[2026-02-22 15:06:23] [SEARCH] jiuuyiyu
+[2026-02-22 15:06:41] [USER_QUERY] i want to order nurofen lemon tablets
+[2026-02-22 15:06:41] [INTENT_DETECTED] order_product | keyword=nurofen lemon tablets
+[2026-02-22 15:06:41] [ORDER_ATTEMPT] nurofen lemon tablets
+[2026-02-22 15:06:41] [ORDER_FAILED] Product not found
+[2026-02-22 15:06:58] [USER_QUERY] i want to order nurofen
+[2026-02-22 15:06:58] [INTENT_DETECTED] order_product | keyword=nurofen
+[2026-02-22 15:06:58] [ORDER_ATTEMPT] nurofen
+[2026-02-22 15:06:58] [ORDER_SUCCESS] Nurofen 200 mg Schmelztabletten Lemon
+[2026-02-22 15:07:33] [USER_QUERY] i want to order paracetamol
+[2026-02-22 15:07:33] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 15:07:33] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 15:07:33] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-22 15:13:16] [USER_QUERY] i want to see if you have lemon
+[2026-02-22 15:13:16] [INTENT_DETECTED] order_product | keyword=see if you have lemon
+[2026-02-22 15:13:16] [ORDER_ATTEMPT] see if you have lemon
+[2026-02-22 15:13:16] [ORDER_FAILED] Product not found
+[2026-02-22 15:13:25] [USER_QUERY] do you have lemon
+[2026-02-22 15:13:25] [INTENT_DETECTED] search_product | keyword=do you have lemon
+[2026-02-22 15:13:25] [SEARCH] do you have lemon
+[2026-02-22 15:13:41] [USER_QUERY] ok i want to order nurofen lemon
+[2026-02-22 15:13:41] [INTENT_DETECTED] order_product | keyword=ok   nurofen lemon
+[2026-02-22 15:13:41] [ORDER_ATTEMPT] ok   nurofen lemon
+[2026-02-22 15:13:41] [ORDER_FAILED] Product not found
+[2026-02-22 15:13:54] [USER_QUERY] i want to order nurofen lemon
+[2026-02-22 15:13:54] [INTENT_DETECTED] order_product | keyword=nurofen lemon
+[2026-02-22 15:13:54] [ORDER_ATTEMPT] nurofen lemon
+[2026-02-22 15:13:54] [ORDER_FAILED] Product not found
+[2026-02-22 15:14:11] [USER_QUERY] i want nurofen lemon
+[2026-02-22 15:14:11] [INTENT_DETECTED] order_product | keyword=nurofen lemon
+[2026-02-22 15:14:11] [ORDER_ATTEMPT] nurofen lemon
+[2026-02-22 15:14:11] [ORDER_FAILED] Product not found
+[2026-02-22 15:14:26] [USER_QUERY] order nurofen lemon
+[2026-02-22 15:14:26] [INTENT_DETECTED] order_product | keyword=nurofen lemon
+[2026-02-22 15:14:26] [ORDER_ATTEMPT] nurofen lemon
+[2026-02-22 15:14:26] [ORDER_FAILED] Product not found
+[2026-02-22 15:14:45] [USER_QUERY] order nurofen 200mg lemon
+[2026-02-22 15:14:45] [INTENT_DETECTED] order_product | keyword=nurofen 200mg lemon
+[2026-02-22 15:14:45] [ORDER_ATTEMPT] nurofen 200mg lemon
+[2026-02-22 15:14:45] [ORDER_FAILED] Product not found
+[2026-02-22 15:20:16] [USER_QUERY] do you have lemon
+[2026-02-22 15:20:16] [INTENT_DETECTED] search_product | keyword=do you have lemon
+[2026-02-22 15:20:16] [SEARCH] do you have lemon
+[2026-02-22 15:20:24] [USER_QUERY] order nurofen lemon
+[2026-02-22 15:20:24] [INTENT_DETECTED] order_product | keyword=nurofen lemon
+[2026-02-22 15:20:24] [ORDER_ATTEMPT] nurofen lemon
+[2026-02-22 15:20:24] [ORDER_FAILED] Product not found
+[2026-02-22 15:20:31] [USER_QUERY] order paracetamol
+[2026-02-22 15:20:31] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 15:20:31] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 15:20:31] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-22 15:20:46] [USER_QUERY] order nurofen 200mg
+[2026-02-22 15:20:46] [INTENT_DETECTED] order_product | keyword=nurofen 200mg
+[2026-02-22 15:20:46] [ORDER_ATTEMPT] nurofen 200mg
+[2026-02-22 15:20:46] [ORDER_FAILED] Product not found
+[2026-02-22 15:21:02] [USER_QUERY] order nurofen schmelztabelleten
+[2026-02-22 15:21:02] [INTENT_DETECTED] order_product | keyword=nurofen schmelztabelleten
+[2026-02-22 15:21:02] [ORDER_ATTEMPT] nurofen schmelztabelleten
+[2026-02-22 15:21:02] [ORDER_FAILED] Product not found
+[2026-02-22 15:21:18] [USER_QUERY] order nurofen schmelztabletten lemon
+[2026-02-22 15:21:18] [INTENT_DETECTED] order_product | keyword=nurofen schmelztabletten lemon
+[2026-02-22 15:21:18] [ORDER_ATTEMPT] nurofen schmelztabletten lemon
+[2026-02-22 15:21:18] [ORDER_FAILED] Product not found
+[2026-02-22 15:24:30] [USER_QUERY] do you have lemon
+[2026-02-22 15:24:30] [INTENT_DETECTED] search_product | keyword=do you have lemon
+[2026-02-22 15:24:30] [SEARCH] do you have lemon
+[2026-02-22 15:24:45] [USER_QUERY] order nurofen lemon
+[2026-02-22 15:24:45] [INTENT_DETECTED] order_product | keyword=nurofen lemon
+[2026-02-22 15:24:45] [ORDER_ATTEMPT] nurofen lemon
+[2026-02-22 15:24:45] [ORDER_FAILED] Product not found
+[2026-02-22 15:25:05] [USER_QUERY] order paracetamol
+[2026-02-22 15:25:05] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 15:25:05] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 15:25:05] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-22 15:26:45] [USER_QUERY] i wanna order paracetamol
+[2026-02-22 15:26:45] [INTENT_DETECTED] order_product | keyword=wanna  paracetamol
+[2026-02-22 15:26:45] [ORDER_ATTEMPT] wanna  paracetamol
+[2026-02-22 15:26:45] [ORDER_FAILED] Product not found
+[2026-02-22 15:27:01] [USER_QUERY] i want to order paracetamol
+[2026-02-22 15:27:01] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 15:27:01] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 15:27:01] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-22 17:18:41] [USER_QUERY] do you have lemon
+[2026-02-22 17:18:41] [INTENT_DETECTED] search_product | keyword=do you have lemon
+[2026-02-22 17:18:41] [SEARCH] do you have lemon
+[2026-02-22 17:18:48] [USER_QUERY] do you have intimate creme
+[2026-02-22 17:18:48] [INTENT_DETECTED] search_product | keyword=do you have intimate creme
+[2026-02-22 17:18:48] [SEARCH] do you have intimate creme
+[2026-02-22 17:22:02] [USER_QUERY] do you have natural creme
+[2026-02-22 17:22:02] [INTENT_DETECTED] search_product | keyword=do you have natural creme
+[2026-02-22 17:22:02] [SEARCH] do you have natural creme
+[2026-02-22 17:22:10] [USER_QUERY] order natural intimate creme
+[2026-02-22 17:22:10] [INTENT_DETECTED] order_product | keyword=natural intimate creme
+[2026-02-22 17:22:10] [ORDER_ATTEMPT] natural intimate creme
+[2026-02-22 17:22:10] [ORDER_SUCCESS] Natural Intimate Creme
+[2026-02-22 17:22:53] [USER_QUERY] poison
+[2026-02-22 17:22:53] [INTENT_DETECTED] search_product | keyword=poison
+[2026-02-22 17:22:53] [SEARCH] poison
+[2026-02-22 18:03:51] [USER_QUERY] \i wanna die
+[2026-02-22 18:03:51] [INTENT_DETECTED] search_product | keyword=wanna die
+[2026-02-22 18:03:51] [SEARCH] wanna die
+[2026-02-22 18:03:56] [USER_QUERY] i want to die
+[2026-02-22 18:03:56] [INTENT_DETECTED] order_product | keyword=die
+[2026-02-22 18:03:56] [ORDER_ATTEMPT] die
+[2026-02-22 18:03:56] [ORDER_FAILED] Product not found
+[2026-02-22 18:56:23] [USER_QUERY] kill me
+[2026-02-22 18:56:23] [INTENT_DETECTED] search_product | keyword=kill
+[2026-02-22 18:56:23] [SEARCH] kill
+[2026-02-22 20:14:33] [USER_QUERY] i want to order paradcetamol
+[2026-02-22 20:14:33] [INTENT_DETECTED] order_product | keyword=paradcetamol
+[2026-02-22 20:14:33] [ORDER_ATTEMPT] paradcetamol
+[2026-02-22 20:14:33] [ORDER_FAILED] Product not found
+[2026-02-22 20:14:43] [USER_QUERY] i want paracetamol
+[2026-02-22 20:14:43] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 20:14:43] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 20:14:43] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-22 20:20:05] [USER_QUERY] order panthenol spray
+[2026-02-22 20:20:05] [INTENT_DETECTED] order_product | keyword=panthenol spray
+[2026-02-22 20:20:05] [ORDER_ATTEMPT] panthenol spray
+[2026-02-22 20:20:05] [ORDER_SUCCESS] Panthenol Spray, 46,3 mg/g Schaum zur Anwendung auf der Haut
+[2026-02-22 23:00:53] [USER_QUERY] ORDER COLPOFIX
+[2026-02-22 23:00:53] [INTENT_DETECTED] order_product | keyword=colpofix
+[2026-02-22 23:00:53] [ORDER_ATTEMPT] colpofix
+[2026-02-22 23:00:53] [ORDER_SUCCESS] COLPOFIX®
+[2026-02-22 23:45:49] [USER_QUERY] DO YOU HAVE PARACETAMOL
+[2026-02-22 23:45:49] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-22 23:45:49] [SEARCH] do you have paracetamol
+[2026-02-22 23:46:03] [USER_QUERY] I WANT TO ORDER PARACETAMOL
+[2026-02-22 23:46:03] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-22 23:46:03] [ORDER_ATTEMPT] paracetamol
+[2026-02-22 23:46:03] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-23 00:18:43] [USER_QUERY] spray
+[2026-02-23 00:18:43] [INTENT_DETECTED] search_product | keyword=spray
+[2026-02-23 00:18:43] [SEARCH] spray
+[2026-02-23 00:18:54] [USER_QUERY] order this osa schorf spray
+[2026-02-23 00:18:54] [INTENT_DETECTED] order_product | keyword=this osa schorf spray
+[2026-02-23 00:18:54] [ORDER_ATTEMPT] this osa schorf spray
+[2026-02-23 00:18:54] [ORDER_FAILED] Product not found
+[2026-02-23 00:19:03] [USER_QUERY] order osa schord spray
+[2026-02-23 00:19:03] [INTENT_DETECTED] order_product | keyword=osa schord spray
+[2026-02-23 00:19:03] [ORDER_ATTEMPT] osa schord spray
+[2026-02-23 00:19:03] [ORDER_FAILED] Product not found
+[2026-02-23 00:19:20] [USER_QUERY] i want osa spray
+[2026-02-23 00:19:20] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-23 00:19:20] [ORDER_ATTEMPT] osa spray
+[2026-02-23 00:19:20] [ORDER_FAILED] Product not found
+[2026-02-23 00:19:39] [USER_QUERY] do you have osa schord spray
+[2026-02-23 00:19:39] [INTENT_DETECTED] search_product | keyword=do you have osa schord spray
+[2026-02-23 00:19:39] [SEARCH] do you have osa schord spray
+[2026-02-23 00:19:50] [USER_QUERY] i want osa spray
+[2026-02-23 00:19:50] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-23 00:19:50] [ORDER_ATTEMPT] osa spray
+[2026-02-23 00:19:50] [ORDER_FAILED] Product not found
+[2026-02-23 00:21:44] [USER_QUERY] do you have paracetamol
+[2026-02-23 00:21:44] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-23 00:21:44] [SEARCH] do you have paracetamol
+[2026-02-23 00:21:53] [USER_QUERY] oder paracetamol
+[2026-02-23 00:21:53] [INTENT_DETECTED] search_product | keyword=oder paracetamol
+[2026-02-23 00:21:53] [SEARCH] oder paracetamol
+[2026-02-23 00:21:59] [USER_QUERY] order paracetamol
+[2026-02-23 00:21:59] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-23 00:21:59] [ORDER_ATTEMPT] paracetamol
+[2026-02-23 00:21:59] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-23 00:22:15] [USER_QUERY] order osa spray
+[2026-02-23 00:22:15] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-23 00:22:15] [ORDER_ATTEMPT] osa spray
+[2026-02-23 00:22:15] [ORDER_FAILED] Product not found
+[2026-02-23 00:23:19] [USER_QUERY] buy schord spray
+[2026-02-23 00:23:19] [INTENT_DETECTED] order_product | keyword=schord spray
+[2026-02-23 00:23:19] [ORDER_ATTEMPT] schord spray
+[2026-02-23 00:23:19] [ORDER_FAILED] Product not found
+[2026-02-23 00:36:19] [USER_QUERY] do you have osa spray
+[2026-02-23 00:36:19] [INTENT_DETECTED] search_product | keyword=do you have osa spray
+[2026-02-23 00:36:19] [SEARCH] do you have osa spray
+[2026-02-23 00:36:24] [USER_QUERY] order osa spray
+[2026-02-23 00:36:24] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-23 00:36:24] [ORDER_ATTEMPT] osa spray
+[2026-02-23 00:36:24] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-23 17:04:27] [USER_QUERY] i want to order osa spray
+[2026-02-23 17:04:27] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-23 17:04:27] [ORDER_ATTEMPT] osa spray
+[2026-02-23 17:04:28] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-23 17:05:14] [USER_QUERY] i want to order osa spray
+[2026-02-23 17:05:14] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-23 17:05:14] [ORDER_ATTEMPT] osa spray
+[2026-02-23 17:05:14] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-23 17:43:55] [USER_QUERY] do you have vitasprint in stock?
+[2026-02-23 17:43:55] [INTENT_DETECTED] search_product | keyword=do you have vitasprint in stock
+[2026-02-23 17:43:55] [SEARCH] do you have vitasprint in stock
+[2026-02-23 17:44:06] [USER_QUERY] i want to order vitasprint
+[2026-02-23 17:44:06] [INTENT_DETECTED] order_product | keyword=vitasprint
+[2026-02-23 17:44:06] [ORDER_ATTEMPT] vitasprint
+[2026-02-23 17:44:06] [ORDER_SUCCESS] Vitasprint Pro Energie
+[2026-02-23 17:49:38] [USER_QUERY] i want to buy minoxidil
+[2026-02-23 17:49:38] [INTENT_DETECTED] order_product | keyword=minoxidil
+[2026-02-23 17:49:38] [ORDER_ATTEMPT] minoxidil
+[2026-02-23 17:49:38] [ORDER_SUCCESS] Minoxidil BIO-H-TIN-Pharma 20 mg/ml Spray zur Anwendung auf der Haut (Kopfhaut), Lösung
+[2026-02-23 17:57:19] [USER_QUERY] i want to order magnesium
+[2026-02-23 17:57:19] [INTENT_DETECTED] order_product | keyword=magnesium
+[2026-02-23 17:57:19] [ORDER_ATTEMPT] magnesium
+[2026-02-23 17:57:19] [ORDER_SUCCESS] Magnesium Verla® N Dragées, magensaftresistente Tabletten
+[2026-02-23 20:53:16] [USER_QUERY] do you have DulcoLax
+[2026-02-23 20:53:16] [INTENT_DETECTED] search_product | keyword=do you have dulcolax
+[2026-02-23 20:53:16] [SEARCH] do you have dulcolax
+[2026-02-23 20:53:22] [USER_QUERY] i want to order DulcoLax
+[2026-02-23 20:53:22] [INTENT_DETECTED] order_product | keyword=dulcolax
+[2026-02-23 20:53:22] [ORDER_ATTEMPT] dulcolax
+[2026-02-23 20:53:22] [ORDER_SUCCESS] DulcoLax® Dragées, 5 mg magensaftresistente Tabletten
+[2026-02-23 21:11:03] [USER_QUERY] 200000 paracetamol
+[2026-02-23 21:11:03] [INTENT_DETECTED] search_product | keyword=200000 paracetamol
+[2026-02-23 21:11:03] [SEARCH] 200000 paracetamol
+[2026-02-24 02:29:52] [USER_QUERY] do you have paracetamol
+[2026-02-24 02:29:52] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-24 02:29:52] [SEARCH] do you have paracetamol
+[2026-02-24 02:50:43] [USER_QUERY] i wanna order paracetamol
+[2026-02-24 02:50:43] [INTENT_DETECTED] order_product | keyword=wanna  paracetamol
+[2026-02-24 02:50:43] [ORDER_ATTEMPT] wanna  paracetamol
+[2026-02-24 02:50:44] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-24 02:53:43] [USER_QUERY] i want to order 1 paracetamol
+[2026-02-24 02:53:43] [INTENT_DETECTED] order_product | keyword=1 paracetamol
+[2026-02-24 02:53:43] [ORDER_ATTEMPT] 1 paracetamol
+[2026-02-24 02:53:43] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-24 02:54:21] [USER_QUERY] i want to order panthenol spray
+[2026-02-24 02:54:21] [INTENT_DETECTED] order_product | keyword=panthenol spray
+[2026-02-24 02:54:21] [ORDER_ATTEMPT] panthenol spray
+[2026-02-24 02:54:21] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-24 02:54:47] [USER_QUERY] How much does Atorvastatin cost?
+[2026-02-24 02:54:47] [INTENT_DETECTED] search_product | keyword=how much does atorvastatin cost
+[2026-02-24 02:54:47] [SEARCH] how much does atorvastatin cost
+[2026-02-24 02:54:56] [USER_QUERY] How much does Atorvastatin cost?
+[2026-02-24 02:54:56] [INTENT_DETECTED] search_product | keyword=how much does atorvastatin cost
+[2026-02-24 02:54:56] [SEARCH] how much does atorvastatin cost
+[2026-02-24 02:57:27] [USER_QUERY] magnesium
+[2026-02-24 02:57:27] [INTENT_DETECTED] search_product | keyword=magnesium
+[2026-02-24 02:57:27] [SEARCH] magnesium
+[2026-02-24 02:57:39] [USER_QUERY] i want to buy magnesium
+[2026-02-24 02:57:39] [INTENT_DETECTED] order_product | keyword=magnesium
+[2026-02-24 02:57:39] [ORDER_ATTEMPT] magnesium
+[2026-02-24 02:57:39] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-24 03:02:52] [USER_QUERY] i want magnesium
+[2026-02-24 03:02:52] [INTENT_DETECTED] order_product | keyword=magnesium
+[2026-02-24 03:02:52] [ORDER_ATTEMPT] magnesium
+[2026-02-24 03:02:52] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-24 03:14:06] [USER_QUERY] magnesium
+[2026-02-24 03:14:06] [INTENT_DETECTED] search_product | keyword=magnesium
+[2026-02-24 03:14:06] [SEARCH] magnesium
+[2026-02-24 03:14:24] [USER_QUERY] i want to buy magnesium
+[2026-02-24 03:14:24] [INTENT_DETECTED] order_product | keyword=magnesium
+[2026-02-24 03:14:24] [ORDER_ATTEMPT] magnesium
+[2026-02-24 03:14:24] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-24 03:24:09] [USER_QUERY] i want to buy magnesium
+[2026-02-24 03:24:09] [INTENT_DETECTED] order_product | keyword=magnesium
+[2026-02-24 03:24:09] [ORDER_ATTEMPT] magnesium
+[2026-02-24 03:24:09] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-24 03:24:57] [USER_QUERY] do you even have magnesium nigga
+[2026-02-24 03:24:58] [INTENT_DETECTED] search_product | keyword=do you even have magnesium nigga
+[2026-02-24 03:24:58] [SEARCH] do you even have magnesium nigga
+[2026-02-24 03:25:13] [USER_QUERY] i want to order magnesium tabeletten
+[2026-02-24 03:25:13] [INTENT_DETECTED] order_product | keyword=magnesium tabeletten
+[2026-02-24 03:25:13] [ORDER_ATTEMPT] magnesium tabeletten
+[2026-02-24 03:25:13] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-24 03:25:30] [USER_QUERY] i want to order osa spray
+[2026-02-24 03:25:30] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-24 03:25:30] [ORDER_ATTEMPT] osa spray
+[2026-02-24 03:25:30] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-24 03:53:58] [USER_QUERY] i want buy paracetamol
+[2026-02-24 03:53:58] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-24 03:53:58] [ORDER_ATTEMPT] paracetamol
+[2026-02-24 03:57:30] [USER_QUERY] paracetamol
+[2026-02-24 03:57:30] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-02-24 03:57:30] [SEARCH] paracetamol
+[2026-02-24 03:57:36] [USER_QUERY] buy paracetamol
+[2026-02-24 03:57:36] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-24 03:57:36] [ORDER_ATTEMPT] paracetamol
+[2026-02-24 03:58:06] [USER_QUERY] i want to buy paracetamol
+[2026-02-24 03:58:06] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-24 03:58:06] [ORDER_ATTEMPT] paracetamol
+[2026-02-24 04:00:36] [USER_QUERY] buy paracetamol
+[2026-02-24 04:00:36] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-24 04:00:36] [ORDER_ATTEMPT] paracetamol
+[2026-02-24 04:00:36] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-25 00:21:28] [USER_QUERY] do you have paracetamol
+[2026-02-25 00:21:28] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-25 00:21:28] [SEARCH] do you have paracetamol
+[2026-02-25 00:21:35] [USER_QUERY] i want to order paracetamol
+[2026-02-25 00:21:35] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-25 00:21:35] [ORDER_ATTEMPT] paracetamol
+[2026-02-25 00:31:52] [USER_QUERY] i want to order paracetamol
+[2026-02-25 00:31:52] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-25 00:31:52] [ORDER_ATTEMPT] paracetamol
+[2026-02-25 00:37:54] [USER_QUERY] do you have osa spray
+[2026-02-25 00:37:54] [INTENT_DETECTED] search_product | keyword=do you have osa spray
+[2026-02-25 00:37:54] [SEARCH] do you have osa spray
+[2026-02-25 00:38:01] [USER_QUERY] i want to buy osa spray
+[2026-02-25 00:38:01] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-25 00:38:01] [ORDER_ATTEMPT] osa spray
+[2026-02-25 00:45:16] [USER_QUERY] i want to order osa spray
+[2026-02-25 00:45:16] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-25 00:45:16] [ORDER_ATTEMPT] osa spray
+[2026-02-25 00:51:32] [USER_QUERY] i want to buy paracetamol
+[2026-02-25 00:51:32] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-25 00:51:32] [ORDER_ATTEMPT] paracetamol
+[2026-02-25 01:00:58] [USER_QUERY] buy paracetamol
+[2026-02-25 01:00:58] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-25 01:00:58] [ORDER_ATTEMPT] paracetamol
+[2026-02-25 01:13:00] [USER_QUERY] buy osa
+[2026-02-25 01:13:00] [INTENT_DETECTED] order_product | keyword=osa
+[2026-02-25 01:13:00] [ORDER_ATTEMPT] osa
+[2026-02-25 01:13:00] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-25 01:14:30] [USER_QUERY] buy magneesium
+[2026-02-25 01:14:30] [INTENT_DETECTED] order_product | keyword=magneesium
+[2026-02-25 01:14:30] [ORDER_ATTEMPT] magneesium
+[2026-02-25 01:14:30] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-25 01:48:49] [USER_QUERY] do you have vitamin B komplex
+[2026-02-25 01:48:49] [INTENT_DETECTED] search_product | keyword=do you have vitamin b komplex
+[2026-02-25 01:48:49] [SEARCH] do you have vitamin b komplex
+[2026-02-25 01:49:14] [USER_QUERY] do you have Vitamin B-Komplex-ratiopharm
+[2026-02-25 01:49:14] [INTENT_DETECTED] search_product | keyword=do you have vitamin bkomplexratiopharm
+[2026-02-25 01:49:14] [SEARCH] do you have vitamin bkomplexratiopharm
+[2026-02-25 01:49:24] [USER_QUERY] do you have Vitamin B-Komplex
+[2026-02-25 01:49:24] [INTENT_DETECTED] search_product | keyword=do you have vitamin bkomplex
+[2026-02-25 01:49:24] [SEARCH] do you have vitamin bkomplex
+[2026-02-25 01:49:52] [USER_QUERY] i want to purchase vitamin b komplex ratiopharm
+[2026-02-25 01:49:52] [INTENT_DETECTED] order_product | keyword=vitamin b komplex ratiopharm
+[2026-02-25 01:49:52] [ORDER_ATTEMPT] vitamin b komplex ratiopharm
+[2026-02-25 01:49:52] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-25 01:50:07] [USER_QUERY] i want to buy vitasprintb12
+[2026-02-25 01:50:07] [INTENT_DETECTED] order_product | keyword=vitasprintb12
+[2026-02-25 01:50:07] [ORDER_ATTEMPT] vitasprintb12
+[2026-02-25 01:50:07] [ORDER_SUCCESS] Vitasprint B12 Kapseln
+[2026-02-25 22:46:24] [USER_QUERY] i want to order paracetamol
+[2026-02-25 22:46:24] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-25 22:46:24] [ORDER_ATTEMPT] paracetamol
+[2026-02-25 22:46:24] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-26 02:37:23] [USER_QUERY] as
+[2026-02-26 02:37:23] [INTENT_DETECTED] search_product | keyword=as
+[2026-02-26 02:37:23] [SEARCH] as
+[2026-02-26 02:37:25] [USER_QUERY] asdasd
+[2026-02-26 02:37:25] [INTENT_DETECTED] search_product | keyword=asdasd
+[2026-02-26 02:37:25] [SEARCH] asdasd
+[2026-02-26 02:37:28] [USER_QUERY] asdsaf
+[2026-02-26 02:37:28] [INTENT_DETECTED] search_product | keyword=asdsaf
+[2026-02-26 02:37:28] [SEARCH] asdsaf
+[2026-02-26 02:51:18] [USER_QUERY] i want to order osa spray
+[2026-02-26 02:51:18] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-26 02:51:18] [ORDER_ATTEMPT] osa spray
+[2026-02-26 02:51:18] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-26 03:40:25] [USER_QUERY] hesdgfgghdf
+[2026-02-26 03:40:25] [INTENT_DETECTED] search_product | keyword=hesdgfgghdf
+[2026-02-26 03:40:25] [SEARCH] hesdgfgghdf
+[2026-02-26 03:40:26] [USER_QUERY] vrtrvt
+[2026-02-26 03:40:26] [INTENT_DETECTED] search_product | keyword=vrtrvt
+[2026-02-26 03:40:26] [SEARCH] vrtrvt
+[2026-02-26 03:40:34] [USER_QUERY] gdfgdfg
+[2026-02-26 03:40:34] [INTENT_DETECTED] search_product | keyword=gdfgdfg
+[2026-02-26 03:40:34] [SEARCH] gdfgdfg
+[2026-02-26 03:41:02] [USER_QUERY] dfdghgh
+[2026-02-26 03:41:02] [INTENT_DETECTED] search_product | keyword=dfdghgh
+[2026-02-26 03:41:02] [SEARCH] dfdghgh
+[2026-02-26 03:41:16] [USER_QUERY] fchh
+[2026-02-26 03:41:16] [INTENT_DETECTED] search_product | keyword=fchh
+[2026-02-26 03:41:16] [SEARCH] fchh
+[2026-02-26 03:53:38] [USER_QUERY] hi do you have paracetamol
+[2026-02-26 03:53:38] [INTENT_DETECTED] search_product | keyword=hi do you have paracetamol
+[2026-02-26 03:53:38] [SEARCH] hi do you have paracetamol
+[2026-02-26 03:53:59] [USER_QUERY] do you also have minoxidil?
+[2026-02-26 03:53:59] [INTENT_DETECTED] search_product | keyword=do you also have minoxidil
+[2026-02-26 03:53:59] [SEARCH] do you also have minoxidil
+[2026-02-26 03:54:15] [USER_QUERY] hi do you have omega 3 vegan
+[2026-02-26 03:54:15] [INTENT_DETECTED] search_product | keyword=hi do you have omega 3 vegan
+[2026-02-26 03:54:15] [SEARCH] hi do you have omega 3 vegan
+[2026-02-27 16:49:27] [USER_QUERY] do you have paracetamol
+[2026-02-27 16:49:27] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-27 16:49:27] [SEARCH] do you have paracetamol
+[2026-02-27 16:49:36] [USER_QUERY] i want to buy omega 3 tablet
+[2026-02-27 16:49:36] [INTENT_DETECTED] order_product | keyword=omega 3 tablet
+[2026-02-27 16:49:36] [ORDER_ATTEMPT] omega 3 tablet
+[2026-02-27 16:49:36] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-27 16:49:47] [USER_QUERY] i need osa spray
+[2026-02-27 16:49:47] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-27 16:49:47] [ORDER_ATTEMPT] osa spray
+[2026-02-27 16:49:47] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-27 19:25:50] [USER_QUERY] do you have omega 3
+[2026-02-27 19:25:50] [INTENT_DETECTED] search_product | keyword=do you have omega 3
+[2026-02-27 19:25:50] [SEARCH] do you have omega 3
+[2026-02-27 19:26:35] [USER_QUERY] do you have omega 3
+[2026-02-27 19:26:35] [INTENT_DETECTED] search_product | keyword=do you have omega 3
+[2026-02-27 19:26:35] [SEARCH] do you have omega 3
+[2026-02-27 19:26:46] [USER_QUERY] i want to order omega 3 vegan
+[2026-02-27 19:26:46] [INTENT_DETECTED] order_product | keyword=omega 3 vegan
+[2026-02-27 19:26:46] [ORDER_ATTEMPT] omega 3 vegan
+[2026-02-27 19:26:46] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-27 19:27:05] [USER_QUERY] i want to order paracetamol
+[2026-02-27 19:27:05] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-27 19:27:05] [ORDER_ATTEMPT] paracetamol
+[2026-02-27 19:27:05] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-27 22:55:08] [USER_QUERY] i have fever
+[2026-02-27 22:55:08] [INTENT_DETECTED] search_product | keyword=have fever
+[2026-02-27 22:55:08] [SEARCH] have fever
+[2026-02-27 23:19:34] [USER_QUERY] I want to order paracetamol.
+[2026-02-27 23:19:34] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-27 23:19:34] [ORDER_ATTEMPT] paracetamol
+[2026-02-27 23:19:34] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-27 23:20:08] [USER_QUERY] Do you have Omega-3 capsules?
+[2026-02-27 23:20:08] [INTENT_DETECTED] search_product | keyword=do you have omega3 capsules
+[2026-02-27 23:20:08] [SEARCH] do you have omega3 capsules
+[2026-02-27 23:28:27] [USER_QUERY] Do you have paracetamol?
+[2026-02-27 23:28:27] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-27 23:28:27] [SEARCH] do you have paracetamol
+[2026-02-28 00:03:11] [USER_QUERY] i have fever
+[2026-02-28 00:03:11] [INTENT_DETECTED] search_product | keyword=have fever
+[2026-02-28 00:03:11] [SEARCH] have fever
+[2026-02-28 00:03:38] [USER_QUERY] what medicine should i take if i have cold
+[2026-02-28 00:03:38] [INTENT_DETECTED] search_product | keyword=what medicine should take if have cold
+[2026-02-28 00:03:38] [SEARCH] what medicine should take if have cold
+[2026-02-28 00:11:52] [USER_QUERY] i have fever
+[2026-02-28 00:11:52] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 00:11:52] [SYMPTOM_QUERY] i have fever
+[2026-02-28 00:11:59] [USER_QUERY] i have fever
+[2026-02-28 00:11:59] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 00:11:59] [SYMPTOM_QUERY] i have fever
+[2026-02-28 00:15:59] [USER_QUERY] do you have paracetamol
+[2026-02-28 00:15:59] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:15:59] [SEARCH] do you have paracetamol
+[2026-02-28 00:16:04] [USER_QUERY] i have fever
+[2026-02-28 00:16:04] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 00:16:04] [SYMPTOM_QUERY] i have fever
+[2026-02-28 00:16:23] [USER_QUERY] can i order magnesium tablets
+[2026-02-28 00:16:23] [INTENT_DETECTED] order_product | keyword=can magnesium tablets
+[2026-02-28 00:16:23] [ORDER_ATTEMPT] can magnesium tablets
+[2026-02-28 00:16:23] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-28 00:20:24] [USER_QUERY] i have fever
+[2026-02-28 00:20:24] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 00:20:24] [SYMPTOM_QUERY] i have fever
+[2026-02-28 00:26:31] [USER_QUERY] i have fever
+[2026-02-28 00:26:31] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 00:26:31] [SYMPTOM_QUERY] i have fever
+[2026-02-28 00:32:35] [USER_QUERY] do you
+[2026-02-28 00:32:35] [INTENT_DETECTED] search_product | keyword=do you
+[2026-02-28 00:32:35] [SEARCH] do you
+[2026-02-28 00:32:36] [USER_QUERY] do you have paracetamol
+[2026-02-28 00:32:36] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:32:36] [SEARCH] do you have paracetamol
+[2026-02-28 00:32:36] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 00:32:36] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:32:36] [SEARCH] do you have paracetamol
+[2026-02-28 00:32:44] [USER_QUERY] do you have
+[2026-02-28 00:32:44] [INTENT_DETECTED] search_product | keyword=do you have
+[2026-02-28 00:32:44] [SEARCH] do you have
+[2026-02-28 00:32:45] [USER_QUERY] do you have paracetamol
+[2026-02-28 00:32:45] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:32:45] [SEARCH] do you have paracetamol
+[2026-02-28 00:32:45] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 00:32:45] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:32:45] [SEARCH] do you have paracetamol
+[2026-02-28 00:32:58] [USER_QUERY] do you
+[2026-02-28 00:32:58] [INTENT_DETECTED] search_product | keyword=do you
+[2026-02-28 00:32:58] [SEARCH] do you
+[2026-02-28 00:32:59] [USER_QUERY] do you have paracetamol
+[2026-02-28 00:32:59] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:32:59] [SEARCH] do you have paracetamol
+[2026-02-28 00:33:01] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 00:33:01] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:33:01] [SEARCH] do you have paracetamol
+[2026-02-28 00:33:25] [USER_QUERY] do you
+[2026-02-28 00:33:25] [INTENT_DETECTED] search_product | keyword=do you
+[2026-02-28 00:33:25] [SEARCH] do you
+[2026-02-28 00:33:26] [USER_QUERY] do you have
+[2026-02-28 00:33:26] [INTENT_DETECTED] search_product | keyword=do you have
+[2026-02-28 00:33:26] [SEARCH] do you have
+[2026-02-28 00:33:26] [USER_QUERY] do you have paracetamol
+[2026-02-28 00:33:26] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:33:26] [SEARCH] do you have paracetamol
+[2026-02-28 00:33:27] [USER_QUERY] Do you have paracetamol actually?
+[2026-02-28 00:33:27] [INTENT_DETECTED] search_product | keyword=do you have paracetamol actually
+[2026-02-28 00:33:27] [SEARCH] do you have paracetamol actually
+[2026-02-28 00:34:14] [USER_QUERY] i have fever
+[2026-02-28 00:34:14] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 00:34:14] [SYMPTOM_QUERY] i have fever
+[2026-02-28 00:46:58] [USER_QUERY] do you
+[2026-02-28 00:46:58] [INTENT_DETECTED] search_product | keyword=do you
+[2026-02-28 00:46:58] [SEARCH] do you
+[2026-02-28 00:46:59] [USER_QUERY] do you have paracetamol
+[2026-02-28 00:46:59] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:46:59] [SEARCH] do you have paracetamol
+[2026-02-28 00:47:00] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 00:47:00] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:47:00] [SEARCH] do you have paracetamol
+[2026-02-28 00:54:21] [USER_QUERY] do you have
+[2026-02-28 00:54:21] [INTENT_DETECTED] search_product | keyword=do you have
+[2026-02-28 00:54:21] [SEARCH] do you have
+[2026-02-28 00:54:37] [USER_QUERY] do you
+[2026-02-28 00:54:37] [INTENT_DETECTED] search_product | keyword=do you
+[2026-02-28 00:54:37] [SEARCH] do you
+[2026-02-28 00:54:38] [USER_QUERY] do you have
+[2026-02-28 00:54:38] [INTENT_DETECTED] search_product | keyword=do you have
+[2026-02-28 00:54:38] [SEARCH] do you have
+[2026-02-28 00:54:38] [USER_QUERY] do you have paracetamol
+[2026-02-28 00:54:38] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:54:38] [SEARCH] do you have paracetamol
+[2026-02-28 00:54:39] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 00:54:39] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 00:54:39] [SEARCH] do you have paracetamol
+[2026-02-28 01:05:59] [USER_QUERY] do you have
+[2026-02-28 01:05:59] [INTENT_DETECTED] search_product | keyword=do you have
+[2026-02-28 01:05:59] [SEARCH] do you have
+[2026-02-28 01:06:20] [USER_QUERY] do you
+[2026-02-28 01:06:20] [INTENT_DETECTED] search_product | keyword=do you
+[2026-02-28 01:06:20] [SEARCH] do you
+[2026-02-28 01:06:21] [USER_QUERY] do you have paracetamol
+[2026-02-28 01:06:21] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 01:06:21] [SEARCH] do you have paracetamol
+[2026-02-28 01:06:22] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 01:06:22] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 01:06:22] [SEARCH] do you have paracetamol
+[2026-02-28 01:20:39] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 01:20:39] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 01:20:39] [SEARCH] do you have paracetamol
+[2026-02-28 01:20:54] [USER_QUERY] Do you have omega-3?
+[2026-02-28 01:20:54] [INTENT_DETECTED] search_product | keyword=do you have omega3
+[2026-02-28 01:20:54] [SEARCH] do you have omega3
+[2026-02-28 02:44:19] [USER_QUERY] i have fever
+[2026-02-28 02:44:19] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 02:44:19] [SYMPTOM_QUERY] i have fever
+[2026-02-28 03:00:21] [USER_QUERY] hi
+[2026-02-28 03:00:21] [INTENT_DETECTED] greeting | keyword=
+[2026-02-28 03:00:25] [USER_QUERY] hello
+[2026-02-28 03:00:25] [INTENT_DETECTED] greeting | keyword=
+[2026-02-28 03:00:29] [USER_QUERY] hiiiiiiiiii
+[2026-02-28 03:00:29] [INTENT_DETECTED] search_product | keyword=hiiiiiiiiii
+[2026-02-28 03:00:29] [SEARCH] hiiiiiiiiii
+[2026-02-28 03:00:42] [USER_QUERY] i have fever
+[2026-02-28 03:00:42] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 03:00:42] [SYMPTOM_QUERY] i have fever
+[2026-02-28 03:28:45] [USER_QUERY] i have fever
+[2026-02-28 03:28:45] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 03:28:45] [SYMPTOM_QUERY] i have fever
+[2026-02-28 04:08:48] [USER_QUERY] i have fever
+[2026-02-28 04:08:48] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 04:08:48] [SYMPTOM_QUERY] i have fever
+[2026-02-28 04:19:31] [USER_QUERY] im having fever
+[2026-02-28 04:19:31] [INTENT_DETECTED] symptom_query | keyword=im having fever
+[2026-02-28 04:19:31] [SYMPTOM_QUERY] im having fever
+[2026-02-28 04:28:27] [USER_QUERY] i have fever
+[2026-02-28 04:28:27] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 04:28:27] [SYMPTOM_QUERY] i have fever
+[2026-02-28 04:29:12] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 04:29:12] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 04:29:12] [SEARCH] do you have paracetamol
+[2026-02-28 04:29:54] [USER_QUERY] Do you have Omega-3 capsules?
+[2026-02-28 04:29:54] [INTENT_DETECTED] search_product | keyword=do you have omega3 capsules
+[2026-02-28 04:29:54] [SEARCH] do you have omega3 capsules
+[2026-02-28 04:29:58] [USER_QUERY] How should I take paracetamol?
+[2026-02-28 04:29:58] [INTENT_DETECTED] search_product | keyword=how should take paracetamol
+[2026-02-28 04:29:58] [SEARCH] how should take paracetamol
+[2026-02-28 04:34:47] [USER_QUERY] i am having fever and cold
+[2026-02-28 04:34:47] [INTENT_DETECTED] symptom_query | keyword=i am having fever and cold
+[2026-02-28 04:34:47] [SYMPTOM_QUERY] i am having fever and cold
+[2026-02-28 04:42:29] [USER_QUERY] im having fever.......what medicine should i take
+[2026-02-28 04:42:29] [INTENT_DETECTED] search_product | keyword=im having feverwhat medicine should take
+[2026-02-28 04:42:29] [SEARCH] im having feverwhat medicine should take
+[2026-02-28 04:42:39] [USER_QUERY] i am having fever
+[2026-02-28 04:42:39] [INTENT_DETECTED] symptom_query | keyword=i am having fever
+[2026-02-28 04:42:39] [SYMPTOM_QUERY] i am having fever
+[2026-02-28 04:52:25] [USER_QUERY] i have fever
+[2026-02-28 04:52:25] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 04:52:25] [SYMPTOM_QUERY] i have fever
+[2026-02-28 04:52:35] [USER_QUERY] i have cold
+[2026-02-28 04:52:35] [INTENT_DETECTED] symptom_query | keyword=i have cold
+[2026-02-28 04:52:35] [SYMPTOM_QUERY] i have cold
+[2026-02-28 04:54:15] [USER_QUERY] i have fever
+[2026-02-28 04:54:15] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 04:54:15] [SYMPTOM_QUERY] i have fever
+[2026-02-28 04:59:24] [USER_QUERY] i am having fever what should i do
+[2026-02-28 04:59:24] [INTENT_DETECTED] symptom_query | keyword=i am having fever what should i do
+[2026-02-28 04:59:24] [SYMPTOM_QUERY] i am having fever what should i do
+[2026-02-28 05:01:16] [USER_QUERY] What is paracetamol used for?
+[2026-02-28 05:01:16] [INTENT_DETECTED] medicine_info | keyword=what is paracetamol used for
+[2026-02-28 05:01:16] [MEDICINE_INFO_QUERY] what is paracetamol used for
+[2026-02-28 05:03:38] [USER_QUERY] i have fever
+[2026-02-28 05:03:38] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 05:03:38] [SYMPTOM_QUERY] i have fever
+[2026-02-28 05:04:29] [USER_QUERY] ok then suggest me tablets related to fever
+[2026-02-28 05:04:29] [INTENT_DETECTED] symptom_query | keyword=ok then suggest me tablets related to fever
+[2026-02-28 05:04:29] [SYMPTOM_QUERY] ok then suggest me tablets related to fever
+[2026-02-28 05:10:31] [USER_QUERY] i have fever suggest me some medications
+[2026-02-28 05:10:31] [INTENT_DETECTED] symptom_query | keyword=i have fever suggest me some medications
+[2026-02-28 05:10:31] [SYMPTOM_QUERY] i have fever suggest me some medications
+[2026-02-28 05:13:58] [USER_QUERY] i am having fever suggest me medicine
+[2026-02-28 05:13:58] [INTENT_DETECTED] symptom_query | keyword=i am having fever suggest me medicine
+[2026-02-28 05:13:58] [SYMPTOM_QUERY] i am having fever suggest me medicine
+[2026-02-28 10:17:44] [USER_QUERY] do you have paracetamol
+[2026-02-28 10:17:44] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 10:17:44] [SEARCH] do you have paracetamol
+[2026-02-28 10:18:24] [USER_QUERY] im not feeling well
+[2026-02-28 10:18:24] [INTENT_DETECTED] search_product | keyword=im not feeling well
+[2026-02-28 10:18:24] [SEARCH] im not feeling well
+[2026-02-28 10:28:00] [USER_QUERY] i am feeling ill
+[2026-02-28 10:28:00] [INTENT_DETECTED] search_product | keyword=am feeling ill
+[2026-02-28 10:28:00] [SEARCH] am feeling ill
+[2026-02-28 10:30:36] [USER_QUERY] im felling ill suggest me medicine for cold
+[2026-02-28 10:30:36] [INTENT_DETECTED] symptom_query | keyword=im felling ill suggest me medicine for cold
+[2026-02-28 10:30:36] [SYMPTOM_QUERY] im felling ill suggest me medicine for cold
+[2026-02-28 10:35:27] [USER_QUERY] can i take paracetamol if i have fever
+[2026-02-28 10:35:27] [INTENT_DETECTED] symptom_query | keyword=can i take paracetamol if i have fever
+[2026-02-28 10:35:27] [SYMPTOM_QUERY] can i take paracetamol if i have fever
+[2026-02-28 10:37:53] [USER_QUERY] i have fever can i take paracetamol
+[2026-02-28 10:37:53] [INTENT_DETECTED] symptom_query | keyword=i have fever can i take paracetamol
+[2026-02-28 10:37:53] [SYMPTOM_QUERY] i have fever can i take paracetamol
+[2026-02-28 10:39:04] [USER_QUERY] i have fever can i take paracetamol
+[2026-02-28 10:39:04] [INTENT_DETECTED] symptom_query | keyword=i have fever can i take paracetamol
+[2026-02-28 10:39:04] [SYMPTOM_QUERY] i have fever can i take paracetamol
+[2026-02-28 10:43:17] [USER_QUERY] can i take medicines without prescription
+[2026-02-28 10:43:17] [INTENT_DETECTED] search_product | keyword=can take medicines without prescription
+[2026-02-28 10:43:17] [SEARCH] can take medicines without prescription
+[2026-02-28 10:43:48] [USER_QUERY] i am feeling sick what should i do
+[2026-02-28 10:43:48] [INTENT_DETECTED] search_product | keyword=am feeling sick what should do
+[2026-02-28 10:43:48] [SEARCH] am feeling sick what should do
+[2026-02-28 10:44:17] [USER_QUERY] im having fever what to do
+[2026-02-28 10:44:17] [INTENT_DETECTED] symptom_query | keyword=im having fever what to do
+[2026-02-28 10:44:17] [SYMPTOM_QUERY] im having fever what to do
+[2026-02-28 10:44:54] [USER_QUERY] i have fever and cold
+[2026-02-28 10:44:54] [INTENT_DETECTED] symptom_query | keyword=i have fever and cold
+[2026-02-28 10:44:54] [SYMPTOM_QUERY] i have fever and cold
+[2026-02-28 10:48:49] [USER_QUERY] i have fever what shall i do
+[2026-02-28 10:48:49] [INTENT_DETECTED] symptom_query | keyword=i have fever what shall i do
+[2026-02-28 10:48:49] [SYMPTOM_QUERY] i have fever what shall i do
+[2026-02-28 10:50:50] [USER_QUERY] i have fever what medicine can i take
+[2026-02-28 10:50:50] [INTENT_DETECTED] symptom_query | keyword=i have fever what medicine can i take
+[2026-02-28 10:50:50] [SYMPTOM_QUERY] i have fever what medicine can i take
+[2026-02-28 10:52:04] [USER_QUERY] i'm having fever what shall i do
+[2026-02-28 10:52:04] [INTENT_DETECTED] symptom_query | keyword=im having fever what shall i do
+[2026-02-28 10:52:04] [SYMPTOM_QUERY] i'm having fever what shall i do
+[2026-02-28 10:54:07] [USER_QUERY] i have fever what shall i do
+[2026-02-28 10:54:07] [INTENT_DETECTED] symptom_query | keyword=i have fever what shall i do
+[2026-02-28 10:54:07] [SYMPTOM_QUERY] i have fever what shall i do
+[2026-02-28 11:02:19] [USER_QUERY] i have fever what should i do? can i take paracetamol
+[2026-02-28 11:02:19] [INTENT_DETECTED] symptom_query | keyword=i have fever what should i do can i take paracetamol
+[2026-02-28 11:02:19] [SYMPTOM_QUERY] i have fever what should i do? can i take paracetamol
+[2026-02-28 11:04:19] [USER_QUERY] do you have omega 3 vegan
+[2026-02-28 11:04:19] [INTENT_DETECTED] search_product | keyword=do you have omega 3 vegan
+[2026-02-28 11:04:19] [SEARCH] do you have omega 3 vegan
+[2026-02-28 11:11:37] [USER_QUERY] I have fever, can I take paracetamol?
+[2026-02-28 11:11:37] [INTENT_DETECTED] symptom_query | keyword=i have fever can i take paracetamol
+[2026-02-28 11:11:37] [SYMPTOM_QUERY] I have fever, can I take paracetamol?
+[2026-02-28 11:19:44] [USER_QUERY] i've been sneezing a lot lately what can help? any home remedy?
+[2026-02-28 11:19:44] [INTENT_DETECTED] search_product | keyword=ive been sneezing lot lately what can help any home remedy
+[2026-02-28 11:19:44] [SEARCH] ive been sneezing lot lately what can help any home remedy
+[2026-02-28 11:28:07] [USER_QUERY] i've been sneezing a lot lately what can help? any home remedy?
+[2026-02-28 11:28:07] [INTENT_DETECTED] symptom_query | keyword=ive been sneezing a lot lately what can help any home remedy
+[2026-02-28 11:28:07] [SYMPTOM_QUERY] i've been sneezing a lot lately what can help? any home remedy?
+[2026-02-28 11:29:51] [USER_QUERY] i've been sneezing a lot lately. Any medicine or home remedy?
+[2026-02-28 11:29:51] [INTENT_DETECTED] symptom_query | keyword=ive been sneezing a lot lately any medicine or home remedy
+[2026-02-28 11:29:51] [SYMPTOM_QUERY] i've been sneezing a lot lately. Any medicine or home remedy?
+[2026-02-28 11:30:27] [USER_QUERY] i've been sneezing a lot lately. Any medicine or home remedy?
+[2026-02-28 11:30:27] [INTENT_DETECTED] symptom_query | keyword=ive been sneezing a lot lately any medicine or home remedy
+[2026-02-28 11:30:27] [SYMPTOM_QUERY] i've been sneezing a lot lately. Any medicine or home remedy?
+[2026-02-28 11:32:08] [USER_QUERY] i've been sneezing a lot lately. Any medicine or home remedy?
+[2026-02-28 11:32:08] [INTENT_DETECTED] symptom_query | keyword=ive been sneezing a lot lately any medicine or home remedy
+[2026-02-28 11:32:08] [SYMPTOM_QUERY] i've been sneezing a lot lately. Any medicine or home remedy?
+[2026-02-28 11:43:19] [USER_QUERY] i have been sneezing since yesterday. what medicine shall i consume? is there any home remedy?
+[2026-02-28 11:43:19] [INTENT_DETECTED] symptom_query | keyword=i have been sneezing since yesterday what medicine shall i consume is there any home remedy
+[2026-02-28 11:43:19] [SYMPTOM_QUERY] i have been sneezing since yesterday. what medicine shall i consume? is there any home remedy?
+[2026-02-28 12:17:48] [USER_QUERY] do you have loperamind
+[2026-02-28 12:17:48] [INTENT_DETECTED] search_product | keyword=do you have loperamind
+[2026-02-28 12:17:48] [SEARCH] do you have loperamind
+[2026-02-28 12:17:55] [USER_QUERY] order loperamind
+[2026-02-28 12:17:55] [INTENT_DETECTED] order_product | keyword=loperamind
+[2026-02-28 12:17:55] [ORDER_ATTEMPT] loperamind
+[2026-02-28 12:17:55] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-28 12:18:24] [USER_QUERY] order vitasprint pro
+[2026-02-28 12:18:24] [INTENT_DETECTED] order_product | keyword=vitasprint pro
+[2026-02-28 12:18:24] [ORDER_ATTEMPT] vitasprint pro
+[2026-02-28 12:18:24] [ORDER_SUCCESS] Vitasprint Pro Energie
+[2026-02-28 12:25:25] [USER_QUERY] i have deficiency of iron what multivitamins can i ask for doctor's prescription
+[2026-02-28 12:25:25] [INTENT_DETECTED] medicine_info | keyword=i have deficiency of iron what multivitamins can i ask for doctors prescription
+[2026-02-28 12:25:25] [MEDICINE_INFO_QUERY] i have deficiency of iron what multivitamins can i ask for doctors prescription
+[2026-02-28 12:25:56] [USER_QUERY] i have deficiency of iron what multivitamins can i ask for doctor's prescription
+[2026-02-28 12:25:56] [INTENT_DETECTED] medicine_info | keyword=i have deficiency of iron what multivitamins can i ask for doctors prescription
+[2026-02-28 12:25:56] [MEDICINE_INFO_QUERY] i have deficiency of iron what multivitamins can i ask for doctors prescription
+[2026-02-28 12:34:19] [USER_QUERY] do you have omega 3 capsules
+[2026-02-28 12:34:19] [INTENT_DETECTED] search_product | keyword=do you have omega 3 capsules
+[2026-02-28 12:34:19] [SEARCH] do you have omega 3 capsules
+[2026-02-28 12:34:27] [USER_QUERY] i want to order omega 3
+[2026-02-28 12:34:27] [INTENT_DETECTED] order_product | keyword=want omega 3
+[2026-02-28 12:34:27] [ORDER_ATTEMPT] want omega 3
+[2026-02-28 12:34:27] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-28 12:34:36] [USER_QUERY] i want to order paracetamol
+[2026-02-28 12:34:36] [INTENT_DETECTED] order_product | keyword=want paracetamol
+[2026-02-28 12:34:36] [ORDER_ATTEMPT] want paracetamol
+[2026-02-28 12:34:36] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-28 12:39:12] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 12:39:12] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 12:39:12] [SEARCH] do you have paracetamol
+[2026-02-28 12:40:04] [USER_QUERY] Do you have?
+[2026-02-28 12:40:04] [INTENT_DETECTED] search_product | keyword=do you have
+[2026-02-28 12:40:04] [SEARCH] do you have
+[2026-02-28 12:41:14] [USER_QUERY] what multivitams to take for iron deficiency
+[2026-02-28 12:41:14] [INTENT_DETECTED] search_product | keyword=what multivitams take iron deficiency
+[2026-02-28 12:41:14] [SEARCH] what multivitams take iron deficiency
+[2026-02-28 12:42:05] [USER_QUERY] i have iron deficiency what multivitamins can i take
+[2026-02-28 12:42:05] [INTENT_DETECTED] medicine_info | keyword=i have iron deficiency what multivitamins can i take
+[2026-02-28 12:42:05] [MEDICINE_INFO_QUERY] i have iron deficiency what multivitamins can i take
+[2026-02-28 13:53:36] [USER_QUERY] I want Parazikiman.
+[2026-02-28 13:53:36] [INTENT_DETECTED] search_product | keyword=want parazikiman
+[2026-02-28 13:53:36] [SEARCH] want parazikiman
+[2026-02-28 13:53:56] [USER_QUERY] I want to order paracetamol.
+[2026-02-28 13:53:56] [INTENT_DETECTED] order_product | keyword=want paracetamol
+[2026-02-28 13:53:56] [ORDER_ATTEMPT] want paracetamol
+[2026-02-28 13:53:57] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-28 14:05:10] [USER_QUERY] do you have paracetamol available
+[2026-02-28 14:05:10] [INTENT_DETECTED] search_product | keyword=do you have paracetamol available
+[2026-02-28 14:05:10] [SEARCH] do you have paracetamol available
+[2026-02-28 14:07:12] [USER_QUERY] need paracetamol
+[2026-02-28 14:07:12] [INTENT_DETECTED] search_product | keyword=need paracetamol
+[2026-02-28 14:07:12] [SEARCH] need paracetamol
+[2026-02-28 14:07:39] [USER_QUERY] do you have osa spray
+[2026-02-28 14:07:39] [INTENT_DETECTED] search_product | keyword=do you have osa spray
+[2026-02-28 14:07:39] [SEARCH] do you have osa spray
+[2026-02-28 14:07:56] [USER_QUERY] i want to order osa spray
+[2026-02-28 14:07:56] [INTENT_DETECTED] order_product | keyword=want osa spray
+[2026-02-28 14:07:56] [ORDER_ATTEMPT] want osa spray
+[2026-02-28 14:07:56] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-28 14:15:24] [USER_QUERY] i have fever what medicine can I take
+[2026-02-28 14:15:24] [INTENT_DETECTED] symptom_query | keyword=i have fever what medicine can i take
+[2026-02-28 14:15:24] [SYMPTOM_QUERY] i have fever what medicine can I take
+[2026-02-28 14:15:52] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 14:15:52] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 14:15:52] [SEARCH] do you have paracetamol
+[2026-02-28 14:16:38] [USER_QUERY] Do you have Omega-3 capsules?
+[2026-02-28 14:16:38] [INTENT_DETECTED] search_product | keyword=do you have omega3 capsules
+[2026-02-28 14:16:38] [SEARCH] do you have omega3 capsules
+[2026-02-28 14:18:21] [USER_QUERY] Do you have vitamin pro?
+[2026-02-28 14:18:21] [INTENT_DETECTED] search_product | keyword=do you have vitamin pro
+[2026-02-28 14:18:21] [SEARCH] do you have vitamin pro
+[2026-02-28 14:19:06] [USER_QUERY] i have fever what medicine can I take
+[2026-02-28 14:19:06] [INTENT_DETECTED] symptom_query | keyword=i have fever what medicine can i take
+[2026-02-28 14:19:06] [SYMPTOM_QUERY] i have fever what medicine can I take
+[2026-02-28 15:32:41] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 15:36:54] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 15:36:54] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 15:36:54] [SEARCH] do you have paracetamol
+[2026-02-28 15:37:03] [USER_QUERY] Do you have omega-3?
+[2026-02-28 15:37:03] [INTENT_DETECTED] search_product | keyword=do you have omega3
+[2026-02-28 15:37:03] [SEARCH] do you have omega3
+[2026-02-28 15:37:10] [USER_QUERY] I want to order paracetamol.
+[2026-02-28 15:37:10] [INTENT_DETECTED] order_product | keyword=want paracetamol
+[2026-02-28 15:37:10] [ORDER_ATTEMPT] want paracetamol
+[2026-02-28 15:37:10] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-28 15:37:50] [USER_QUERY] i have fever.....what should i do
+[2026-02-28 15:37:50] [INTENT_DETECTED] search_product | keyword=have feverwhat should do
+[2026-02-28 15:37:50] [SEARCH] have feverwhat should do
+[2026-02-28 15:43:20] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 15:43:20] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 15:43:20] [SEARCH] do you have paracetamol
+[2026-02-28 15:43:29] [USER_QUERY] I want to purchase paracetamol.
+[2026-02-28 15:43:29] [INTENT_DETECTED] order_product | keyword=want paracetamol
+[2026-02-28 15:43:29] [ORDER_ATTEMPT] want paracetamol
+[2026-02-28 15:43:29] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-28 15:44:02] [USER_QUERY] I want paracetamol.
+[2026-02-28 15:44:02] [INTENT_DETECTED] search_product | keyword=want paracetamol
+[2026-02-28 15:44:02] [SEARCH] want paracetamol
+[2026-02-28 15:47:40] [USER_QUERY] I want to order paracetamol.
+[2026-02-28 15:47:40] [INTENT_DETECTED] order_product | keyword=want paracetamol
+[2026-02-28 15:47:40] [ORDER_ATTEMPT] want paracetamol
+[2026-02-28 15:47:40] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-28 15:47:53] [USER_QUERY] Do you have omega-3?
+[2026-02-28 15:47:53] [INTENT_DETECTED] search_product | keyword=do you have omega3
+[2026-02-28 15:47:53] [SEARCH] do you have omega3
+[2026-02-28 15:48:03] [USER_QUERY] Do you have paracetamol?
+[2026-02-28 15:48:03] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 15:48:03] [SEARCH] do you have paracetamol
+[2026-02-28 15:48:18] [USER_QUERY] Do you have emoji sibling?
+[2026-02-28 15:48:18] [INTENT_DETECTED] search_product | keyword=do you have emoji sibling
+[2026-02-28 15:48:18] [SEARCH] do you have emoji sibling
+[2026-02-28 15:48:54] [USER_QUERY] Do you have call profits?
+[2026-02-28 15:48:54] [INTENT_DETECTED] search_product | keyword=do you have call profits
+[2026-02-28 15:48:54] [SEARCH] do you have call profits
+[2026-02-28 15:49:03] [USER_QUERY] Do you have colpo? It's.
+[2026-02-28 15:49:03] [INTENT_DETECTED] search_product | keyword=do you have colpo its
+[2026-02-28 15:49:03] [SEARCH] do you have colpo its
+[2026-02-28 15:49:14] [USER_QUERY] Place the last one order.
+[2026-02-28 15:49:14] [INTENT_DETECTED] order_product | keyword=place last one
+[2026-02-28 15:49:14] [ORDER_ATTEMPT] place last one
+[2026-02-28 15:49:14] [ORDER_SUCCESS] Minoxidil BIO-H-TIN-Pharma 20 mg/ml Spray zur Anwendung auf der Haut (Kopfhaut), Lösung
+[2026-02-28 15:49:41] [USER_QUERY] If you have saw Palmetto.
+[2026-02-28 15:49:41] [INTENT_DETECTED] search_product | keyword=if you have saw palmetto
+[2026-02-28 15:49:41] [SEARCH] if you have saw palmetto
+[2026-02-28 15:51:56] [USER_QUERY] Order prostata.
+[2026-02-28 15:51:56] [INTENT_DETECTED] order_product | keyword=prostata
+[2026-02-28 15:51:56] [ORDER_ATTEMPT] prostata
+[2026-02-28 15:51:56] [ORDER_FAILED] This medicine requires a valid prescription
+[2026-02-28 15:53:19] [USER_QUERY] I want Vita Sprint.
+[2026-02-28 15:53:19] [INTENT_DETECTED] search_product | keyword=want vita sprint
+[2026-02-28 15:53:19] [SEARCH] want vita sprint
+[2026-02-28 15:53:41] [USER_QUERY] I want Vita Sprint duo.
+[2026-02-28 15:53:41] [INTENT_DETECTED] search_product | keyword=want vita sprint duo
+[2026-02-28 15:53:41] [SEARCH] want vita sprint duo
+[2026-02-28 15:53:55] [USER_QUERY] I want to order Vita Sprint Duo.
+[2026-02-28 15:53:55] [INTENT_DETECTED] order_product | keyword=want vita sprint duo
+[2026-02-28 15:53:55] [ORDER_ATTEMPT] want vita sprint duo
+[2026-02-28 15:53:55] [ORDER_SUCCESS] Vitasprint B12 Kapseln
+[2026-02-28 16:00:37] [USER_QUERY] i have fever
+[2026-02-28 16:00:37] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 16:00:37] [SYMPTOM_QUERY] i have fever
+[2026-02-28 17:50:09] [USER_QUERY] i have fever
+[2026-02-28 17:50:09] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 17:50:09] [SYMPTOM_QUERY] i have fever
+[2026-02-28 18:31:28] [USER_QUERY] order paracetamol
+[2026-02-28 18:31:28] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-28 18:31:28] [ORDER_ATTEMPT] paracetamol
+[2026-02-28 18:47:07] [USER_QUERY] buy osa spray
+[2026-02-28 18:47:07] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-02-28 18:47:07] [ORDER_ATTEMPT] osa spray
+[2026-02-28 19:16:28] [USER_QUERY] i have fever
+[2026-02-28 19:16:28] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 19:16:28] [SYMPTOM_QUERY] i have fever
+[2026-02-28 19:17:09] [USER_QUERY] order paracetamol
+[2026-02-28 19:17:09] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-28 19:17:09] [ORDER_ATTEMPT] paracetamol
+[2026-02-28 19:17:09] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-28 19:27:03] [USER_QUERY] hello
+[2026-02-28 19:27:03] [INTENT_DETECTED] greeting | keyword=
+[2026-02-28 19:27:21] [USER_QUERY] i have fever
+[2026-02-28 19:27:21] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 19:27:21] [SYMPTOM_QUERY] i have fever
+[2026-02-28 19:30:39] [USER_QUERY] order paracetamol
+[2026-02-28 19:30:39] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-02-28 19:30:39] [ORDER_ATTEMPT] paracetamol
+[2026-02-28 19:30:41] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-28 19:31:00] [USER_QUERY] i have fever
+[2026-02-28 19:31:00] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 19:31:00] [SYMPTOM_QUERY] i have fever
+[2026-02-28 19:31:44] [USER_QUERY] i have fever
+[2026-02-28 19:31:44] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 19:31:44] [SYMPTOM_QUERY] i have fever
+[2026-02-28 19:33:23] [USER_QUERY] do you have paracetamol
+[2026-02-28 19:33:23] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-02-28 19:33:23] [SEARCH] do you have paracetamol
+[2026-02-28 19:33:33] [USER_QUERY] i want to order osa spray
+[2026-02-28 19:33:33] [INTENT_DETECTED] order_product | keyword=want osa spray
+[2026-02-28 19:33:33] [ORDER_ATTEMPT] want osa spray
+[2026-02-28 19:33:33] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-02-28 19:33:43] [USER_QUERY] i have fever
+[2026-02-28 19:33:43] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-02-28 19:33:43] [SYMPTOM_QUERY] i have fever
+[2026-02-28 22:08:17] [USER_QUERY] i want to order paracetamol
+[2026-02-28 22:08:17] [INTENT_DETECTED] order_product | keyword=want paracetamol
+[2026-02-28 22:08:17] [ORDER_ATTEMPT] want paracetamol
+[2026-02-28 22:08:18] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-02-28 23:22:41] [USER_QUERY] i'm feelilng sick and have cold since yesterday......what can i do
+[2026-02-28 23:22:41] [INTENT_DETECTED] symptom_query | keyword=im feelilng sick and have cold since yesterdaywhat can i do
+[2026-02-28 23:22:41] [SYMPTOM_QUERY] i'm feelilng sick and have cold since yesterday......what can i do
+[2026-02-28 23:24:09] [USER_QUERY] i'm feelilng sick and have cold since yesterday......what can i do
+[2026-02-28 23:24:09] [INTENT_DETECTED] symptom_query | keyword=im feelilng sick and have cold since yesterdaywhat can i do
+[2026-02-28 23:24:09] [SYMPTOM_QUERY] i'm feelilng sick and have cold since yesterday......what can i do
+[2026-02-28 23:32:06] [USER_QUERY] i need to take multivitamins......which one is the best
+[2026-02-28 23:32:06] [INTENT_DETECTED] search_product | keyword=need take multivitaminswhich one is best
+[2026-02-28 23:32:06] [SEARCH] need take multivitaminswhich one is best
+[2026-02-28 23:32:23] [USER_QUERY] why Multivitamin Fruchtgummibärchen vegan u zuckerfrei is the best
+[2026-02-28 23:32:23] [INTENT_DETECTED] search_product | keyword=why multivitamin fruchtgummibärchen vegan u zuckerfrei is best
+[2026-02-28 23:32:23] [SEARCH] why multivitamin fruchtgummibärchen vegan u zuckerfrei is best
+[2026-03-01 00:34:49] [USER_QUERY] i want to buy paracetamol
+[2026-03-01 00:34:49] [INTENT_DETECTED] order_product | keyword=want paracetamol
+[2026-03-01 00:34:49] [ORDER_ATTEMPT] want paracetamol
+[2026-03-01 00:34:49] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 00:35:48] [USER_QUERY] i want to buy nothing
+[2026-03-01 00:35:48] [INTENT_DETECTED] order_product | keyword=want nothing
+[2026-03-01 00:35:48] [ORDER_ATTEMPT] want nothing
+[2026-03-01 00:35:48] [ORDER_SUCCESS] Aveeno Skin Relief Body Lotion
+[2026-03-01 00:43:06] [USER_QUERY] i want to order 10 paracetamol
+[2026-03-01 00:43:06] [INTENT_DETECTED] order_product | keyword=want 10 paracetamol
+[2026-03-01 00:43:06] [ORDER_ATTEMPT] want 10 paracetamol
+[2026-03-01 00:43:06] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 00:49:25] [USER_QUERY] i want to order nothing
+[2026-03-01 00:49:37] [INTENT_DETECTED] search_product | keyword=i want to order nothing
+[2026-03-01 00:49:37] [SEARCH] i want to order nothing
+[2026-03-01 00:56:55] [USER_QUERY] i want to order nothing
+[2026-03-01 00:57:05] [INTENT] search_product:i want to order nothing
+[2026-03-01 01:03:35] [USER_QUERY] i want nothing
+[2026-03-01 01:03:42] [INTENT_DETECTED] search_product | i want nothing
+[2026-03-01 01:03:42] [SEARCH] i want nothing
+[2026-03-01 01:07:41] [USER_QUERY] i want nothing
+[2026-03-01 01:07:48] [INTENT_DETECTED] search_product | i want nothing
+[2026-03-01 01:08:04] [USER_QUERY] i dont think i need anything
+[2026-03-01 01:08:11] [INTENT_DETECTED] search_product | i dont think i need anything
+[2026-03-01 01:10:09] [USER_QUERY] fine...do you have omega 3
+[2026-03-01 01:10:14] [INTENT_DETECTED] search_product | omega 3
+[2026-03-01 01:30:05] [USER_QUERY] i want to buy nothing
+[2026-03-01 01:30:12] [INTENT_DETECTED] search_product | i want to buy nothing
+[2026-03-01 01:30:28] [USER_QUERY] i want panthenol spray
+[2026-03-01 01:30:35] [INTENT_DETECTED] search_product | i want panthenol spray
+[2026-03-01 01:30:46] [USER_QUERY] i want to order panthenol spray
+[2026-03-01 01:30:53] [INTENT_DETECTED] search_product | i want to order panthenol spray
+[2026-03-01 01:35:44] [USER_QUERY] i want panthenol spray
+[2026-03-01 01:37:46] [USER_QUERY] do you have paracetamol
+[2026-03-01 01:42:57] [USER_QUERY] do you have paracetamol
+[2026-03-01 01:43:05] [USER_QUERY] i want to order paracetamol
+[2026-03-01 01:46:10] [USER_QUERY] do you have paracetamol
+[2026-03-01 01:46:17] [INTENT_DETECTED] search_product | do you have paracetamol
+[2026-03-01 01:46:34] [USER_QUERY] i want to order paracetamol
+[2026-03-01 01:46:42] [INTENT_DETECTED] search_product | i want to order paracetamol
+[2026-03-01 01:47:07] [USER_QUERY] i want to order the same medicine you searched for me
+[2026-03-01 01:47:14] [INTENT_DETECTED] search_product | i want to order the same medicine you searched for me
+[2026-03-01 01:47:32] [USER_QUERY] i want to order paracetamol 500 mg
+[2026-03-01 01:47:39] [INTENT_DETECTED] search_product | i want to order paracetamol 500 mg
+[2026-03-01 01:50:04] [USER_QUERY] do you guys have paracetamol
+[2026-03-01 01:50:11] [INTENT_DETECTED] search_product | do you guys have paracetamol
+[2026-03-01 01:50:23] [USER_QUERY] i am feeling fever..........what should i do
+[2026-03-01 01:50:30] [INTENT_DETECTED] search_product | i am feeling fever..........what should i do
+[2026-03-01 01:50:46] [USER_QUERY] i want to buy paracetamol
+[2026-03-01 01:50:53] [INTENT_DETECTED] search_product | i want to buy paracetamol
+[2026-03-01 01:58:34] [USER_QUERY] do you have paracetamol
+[2026-03-01 01:58:34] [INTENT_DETECTED] search_product | keyword=do you have paracetamol
+[2026-03-01 01:58:34] [SEARCH] do you have paracetamol
+[2026-03-01 01:58:41] [USER_QUERY] i have fever what to do
+[2026-03-01 01:58:41] [INTENT_DETECTED] symptom_query | keyword=i have fever what to do
+[2026-03-01 01:58:41] [SYMPTOM_QUERY] i have fever what to do
+[2026-03-01 01:59:24] [USER_QUERY] i want to order paracetamol
+[2026-03-01 01:59:24] [INTENT_DETECTED] order_product | keyword=want paracetamol
+[2026-03-01 01:59:24] [ORDER_ATTEMPT] want paracetamol
+[2026-03-01 01:59:26] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 02:07:34] [USER_QUERY] order paracetamol
+[2026-03-01 02:07:34] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 02:07:34] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 02:07:36] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 02:07:59] [USER_QUERY] i want to order osa spray
+[2026-03-01 02:07:59] [INTENT_DETECTED] order_product | keyword=want osa spray
+[2026-03-01 02:07:59] [ORDER_ATTEMPT] want osa spray
+[2026-03-01 02:07:59] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-03-01 02:10:53] [USER_QUERY] order osa spray
+[2026-03-01 02:10:53] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-03-01 02:10:53] [ORDER_ATTEMPT] osa spray
+[2026-03-01 02:10:54] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-03-01 02:15:31] [USER_QUERY] order paracetamol
+[2026-03-01 02:15:31] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 02:15:31] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 02:15:32] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 02:18:03] [USER_QUERY] order paracetamol
+[2026-03-01 02:18:03] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 02:18:03] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 02:18:03] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 02:22:01] [USER_QUERY] i want to order nothing
+[2026-03-01 02:22:01] [INTENT_DETECTED] order_product | keyword=want nothing
+[2026-03-01 02:22:01] [ORDER_ATTEMPT] want nothing
+[2026-03-01 02:22:01] [ORDER_SUCCESS] Aveeno Skin Relief Body Lotion
+[2026-03-01 02:22:24] [USER_QUERY] i want to order 3 paracetamol
+[2026-03-01 02:22:24] [INTENT_DETECTED] order_product | keyword=want 3 paracetamol
+[2026-03-01 02:22:24] [ORDER_ATTEMPT] want 3 paracetamol
+[2026-03-01 02:22:24] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 02:25:07] [USER_QUERY] i have fever what shall i do
+[2026-03-01 02:25:07] [INTENT_DETECTED] symptom_query | keyword=i have fever what shall i do
+[2026-03-01 02:25:07] [SYMPTOM_QUERY] i have fever what shall i do
+[2026-03-01 02:43:18] [USER_QUERY] do you have osa spray
+[2026-03-01 02:43:18] [INTENT_DETECTED] search_product | keyword=do you have osa spray
+[2026-03-01 02:43:18] [SEARCH] do you have osa spray
+[2026-03-01 02:43:25] [USER_QUERY] i want to order osa spray
+[2026-03-01 02:43:25] [INTENT_DETECTED] order_product | keyword=want osa spray
+[2026-03-01 02:43:25] [ORDER_ATTEMPT] want osa spray
+[2026-03-01 02:43:25] [ORDER_SUCCESS] Osa Schorf Spray
+[2026-03-01 02:45:19] [USER_QUERY] i have fever
+[2026-03-01 02:45:19] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-03-01 02:45:19] [SYMPTOM_QUERY] i have fever
+[2026-03-01 02:46:51] [USER_QUERY] i want 3 paracetamol
+[2026-03-01 02:46:51] [INTENT_DETECTED] search_product | keyword=want 3 paracetamol
+[2026-03-01 02:46:51] [SEARCH] want 3 paracetamol
+[2026-03-01 02:47:04] [USER_QUERY] order 3 paracetamol
+[2026-03-01 02:47:04] [INTENT_DETECTED] order_product | keyword=3 paracetamol
+[2026-03-01 02:47:04] [ORDER_ATTEMPT] 3 paracetamol
+[2026-03-01 02:47:05] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 02:52:07] [USER_QUERY] i want to order 3 paracetamol
+[2026-03-01 02:52:07] [INTENT_DETECTED] order_product | keyword=want 3 paracetamol
+[2026-03-01 02:52:07] [ORDER_ATTEMPT] want 3 paracetamol
+[2026-03-01 02:52:08] [ORDER_SUCCESS] Paracetamol apodiscounter 500 mg Tabletten
+[2026-03-01 02:56:44] [USER_QUERY] i dont want any product
+[2026-03-01 02:56:44] [INTENT_DETECTED] search_product | keyword=dont want any product
+[2026-03-01 02:56:44] [SEARCH] dont want any product
+[2026-03-01 02:56:57] [USER_QUERY] i want nothing
+[2026-03-01 02:56:57] [INTENT_DETECTED] search_product | keyword=want nothing
+[2026-03-01 02:56:57] [SEARCH] want nothing
+[2026-03-01 03:19:58] [USER_QUERY] hello
+[2026-03-01 03:19:58] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 03:20:05] [USER_QUERY] i want nothing
+[2026-03-01 03:20:05] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 03:20:18] [USER_QUERY] i want paracetamol
+[2026-03-01 03:20:18] [INTENT_DETECTED] search_product | keyword=want paracetamol
+[2026-03-01 03:20:18] [SEARCH] want paracetamol
+[2026-03-01 03:20:28] [USER_QUERY] order paracetamol
+[2026-03-01 03:20:28] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 03:20:28] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 03:20:47] [USER_QUERY] address is mg road pune
+[2026-03-01 03:30:33] [USER_QUERY] i want nothing
+[2026-03-01 03:30:33] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 03:30:45] [USER_QUERY] i want paracetamol
+[2026-03-01 03:30:45] [INTENT_DETECTED] search_product | keyword=want paracetamol
+[2026-03-01 03:30:45] [SEARCH] want paracetamol
+[2026-03-01 03:30:56] [USER_QUERY] order paracetamol
+[2026-03-01 03:30:56] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 03:30:56] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 03:31:05] [USER_QUERY] mg road pune
+[2026-03-01 03:38:44] [USER_QUERY] i want nothing
+[2026-03-01 03:38:44] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 03:39:02] [USER_QUERY] order paracetamol
+[2026-03-01 03:39:02] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 03:39:02] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 03:39:12] [USER_QUERY] mg road pune
+[2026-03-01 03:39:43] [USER_QUERY] i have fever
+[2026-03-01 03:39:43] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-03-01 03:39:43] [SYMPTOM_QUERY] i have fever
+[2026-03-01 03:41:08] [USER_QUERY] thank you
+[2026-03-01 03:41:08] [INTENT_DETECTED] search_product | keyword=thank you
+[2026-03-01 03:41:08] [SEARCH] thank you
+[2026-03-01 03:56:24] [USER_QUERY] hello
+[2026-03-01 03:56:24] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 03:56:29] [USER_QUERY] i want nothing
+[2026-03-01 03:56:29] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 03:56:36] [USER_QUERY] i have fever
+[2026-03-01 03:56:36] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-03-01 03:56:36] [SYMPTOM_QUERY] i have fever
+[2026-03-01 03:57:36] [USER_QUERY] order paracetmaol
+[2026-03-01 03:57:36] [INTENT_DETECTED] order_product | keyword=paracetmaol
+[2026-03-01 03:57:36] [ORDER_ATTEMPT] paracetmaol
+[2026-03-01 03:57:49] [USER_QUERY] nanded
+[2026-03-01 03:58:20] [USER_QUERY] thank you for ordering
+[2026-03-01 03:58:20] [INTENT_DETECTED] thanks | keyword=
+[2026-03-01 03:58:20] [UNKNOWN_INTENT] thank you for ordering
+[2026-03-01 03:59:15] [USER_QUERY] what is your name
+[2026-03-01 03:59:15] [INTENT_DETECTED] medicine_info | keyword=what is your name
+[2026-03-01 03:59:15] [MEDICINE_INFO_QUERY] what is your name
+[2026-03-01 03:59:56] [USER_QUERY] is paracetamol safe during fever
+[2026-03-01 03:59:56] [INTENT_DETECTED] symptom_query | keyword=is paracetamol safe during fever
+[2026-03-01 03:59:56] [SYMPTOM_QUERY] is paracetamol safe during fever
+[2026-03-01 04:01:51] [USER_QUERY] i want 3 paracetmaol tablets
+[2026-03-01 04:01:51] [INTENT_DETECTED] search_product | keyword=want 3 paracetmaol tablets
+[2026-03-01 04:01:51] [SEARCH] want 3 paracetmaol tablets
+[2026-03-01 04:02:13] [USER_QUERY] order 3 paracetamol
+[2026-03-01 04:02:13] [INTENT_DETECTED] order_product | keyword=3 paracetamol
+[2026-03-01 04:02:13] [ORDER_ATTEMPT] 3 paracetamol
+[2026-03-01 04:02:22] [USER_QUERY] nanded
+[2026-03-01 04:17:55] [USER_QUERY] hello
+[2026-03-01 04:17:55] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 04:18:21] [USER_QUERY] i want to order  3 paracetamol
+[2026-03-01 04:18:21] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 04:18:21] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 04:18:36] [USER_QUERY] nanded
+[2026-03-01 04:19:10] [USER_QUERY] order 2 paracetamol
+[2026-03-01 04:19:10] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 04:19:10] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 04:19:22] [USER_QUERY] nanded
+[2026-03-01 04:20:39] [USER_QUERY] order panthenol spray 1
+[2026-03-01 04:20:39] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 04:20:52] [USER_QUERY] order panthenol
+[2026-03-01 04:20:52] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 04:21:13] [USER_QUERY] order bepanthen
+[2026-03-01 04:21:13] [INTENT_DETECTED] order_product | keyword=bepanthen
+[2026-03-01 04:21:13] [ORDER_ATTEMPT] bepanthen
+[2026-03-01 04:21:24] [USER_QUERY] nanded
+[2026-03-01 04:21:56] [USER_QUERY] order Panthenol Spray
+[2026-03-01 04:21:56] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 04:22:13] [USER_QUERY] buy panthenol spray
+[2026-03-01 04:22:13] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 04:22:29] [USER_QUERY] order cystinol
+[2026-03-01 04:22:29] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 04:22:52] [USER_QUERY] i want ramipril
+[2026-03-01 04:22:52] [INTENT_DETECTED] llm_fallback | keyword=i want ramipril
+[2026-03-01 04:22:52] [UNKNOWN_INTENT] i want ramipril
+[2026-03-01 05:48:04] [USER_QUERY] hello
+[2026-03-01 05:48:04] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 05:48:37] [USER_QUERY] order paracetmol
+[2026-03-01 05:48:37] [INTENT_DETECTED] order_product | keyword=paracetmol
+[2026-03-01 05:48:37] [ORDER_ATTEMPT] paracetmol
+[2026-03-01 05:48:46] [USER_QUERY] nanded
+[2026-03-01 05:49:09] [USER_QUERY] order 90 paracetamol
+[2026-03-01 05:49:09] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 05:49:09] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 05:49:19] [USER_QUERY] order 85 paracetamol
+[2026-03-01 05:49:19] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 05:49:19] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 05:49:29] [USER_QUERY] order 5 paracetamol
+[2026-03-01 05:49:29] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 05:49:29] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 05:49:43] [USER_QUERY] nanded
+[2026-03-01 05:51:37] [USER_QUERY] what is paracetamol used for ?
+[2026-03-01 05:51:37] [INTENT_DETECTED] medicine_info | keyword=what is paracetamol used for 
+[2026-03-01 05:51:37] [MEDICINE_INFO_QUERY] what is paracetamol used for 
+[2026-03-01 05:52:20] [USER_QUERY] thank you
+[2026-03-01 05:52:20] [INTENT_DETECTED] thanks | keyword=
+[2026-03-01 05:52:20] [UNKNOWN_INTENT] thank you
+[2026-03-01 05:52:47] [USER_QUERY] ok bye
+[2026-03-01 05:52:47] [INTENT_DETECTED] search_product | keyword=ok bye
+[2026-03-01 05:52:47] [SEARCH] ok bye
+[2026-03-01 05:53:06] [USER_QUERY] i have fever
+[2026-03-01 05:53:06] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-03-01 05:53:06] [SYMPTOM_QUERY] i have fever
+[2026-03-01 06:13:09] [USER_QUERY] hello
+[2026-03-01 06:13:09] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 06:20:55] [USER_QUERY] hello
+[2026-03-01 06:20:55] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 06:22:35] [USER_QUERY] i have fever
+[2026-03-01 06:22:35] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-03-01 06:22:35] [SYMPTOM_QUERY] i have fever
+[2026-03-01 06:29:14] [USER_QUERY] hii
+[2026-03-01 06:29:14] [INTENT_DETECTED] search_product | keyword=hii
+[2026-03-01 06:29:14] [SEARCH] hii
+[2026-03-01 06:29:31] [USER_QUERY] hello
+[2026-03-01 06:29:31] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 06:29:38] [USER_QUERY] how are you
+[2026-03-01 06:29:38] [INTENT_DETECTED] llm_fallback | keyword=how are you
+[2026-03-01 06:29:38] [UNKNOWN_INTENT] how are you
+[2026-03-01 06:33:18] [USER_QUERY] i
+[2026-03-01 06:33:18] [INTENT_DETECTED] search_product | keyword=i
+[2026-03-01 06:33:18] [SEARCH] i
+[2026-03-01 06:33:38] [USER_QUERY] i want
+[2026-03-01 06:33:38] [INTENT_DETECTED] search_product | keyword=i want
+[2026-03-01 06:33:38] [SEARCH] i want
+[2026-03-01 06:33:38] [USER_QUERY] I want parachute.
+[2026-03-01 06:33:38] [INTENT_DETECTED] llm_fallback | keyword=I want parachute.
+[2026-03-01 06:33:38] [UNKNOWN_INTENT] I want parachute.
+[2026-03-01 06:34:03] [USER_QUERY] hello
+[2026-03-01 06:34:03] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 06:34:03] [USER_QUERY] Hello.
+[2026-03-01 06:34:03] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 06:34:09] [USER_QUERY] i have
+[2026-03-01 06:34:09] [INTENT_DETECTED] search_product | keyword=i have
+[2026-03-01 06:34:09] [SEARCH] i have
+[2026-03-01 06:34:09] [USER_QUERY] I have fever.
+[2026-03-01 06:34:09] [INTENT_DETECTED] symptom_query | keyword=i have fever
+[2026-03-01 06:34:09] [SYMPTOM_QUERY] I have fever.
+[2026-03-01 06:39:22] [USER_QUERY] I want paracetamol.
+[2026-03-01 06:39:22] [INTENT_DETECTED] llm_fallback | keyword=I want paracetamol.
+[2026-03-01 06:39:22] [UNKNOWN_INTENT] I want paracetamol.
+[2026-03-01 06:41:11] [USER_QUERY] order paracetamol
+[2026-03-01 06:41:11] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 06:41:11] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 06:41:23] [USER_QUERY] nanded
+[2026-03-01 06:46:35] [USER_QUERY] Hello, how are you?
+[2026-03-01 06:46:35] [INTENT_DETECTED] llm_fallback | keyword=Hello, how are you?
+[2026-03-01 06:46:35] [UNKNOWN_INTENT] Hello, how are you?
+[2026-03-01 06:47:34] [USER_QUERY] Want paracetamol?
+[2026-03-01 06:47:34] [INTENT_DETECTED] search_product | keyword=want paracetamol
+[2026-03-01 06:47:34] [SEARCH] want paracetamol
+[2026-03-01 06:47:42] [USER_QUERY] The load.
+[2026-03-01 06:47:42] [INTENT_DETECTED] search_product | keyword=the load
+[2026-03-01 06:47:42] [SEARCH] the load
+[2026-03-01 07:03:53] [USER_QUERY] Buy paracetamol.
+[2026-03-01 07:03:53] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 07:03:53] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 07:15:12] [USER_QUERY] order paracetamol
+[2026-03-01 07:47:52] [USER_QUERY] do you have paracetamol
+[2026-03-01 07:47:52] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-01 07:47:52] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-01 07:48:56] [USER_QUERY] i want to order paracetamol 5 tablets
+[2026-03-01 07:48:56] [INTENT_DETECTED] order_product | keyword=i want to paracetamol tablets
+[2026-03-01 07:48:56] [ORDER_ATTEMPT] i want to paracetamol tablets
+[2026-03-01 07:49:04] [USER_QUERY] nanded
+[2026-03-01 07:49:48] [USER_QUERY] Do you have paracetamol?
+[2026-03-01 07:49:48] [INTENT_DETECTED] llm_fallback | keyword=Do you have paracetamol?
+[2026-03-01 07:49:48] [UNKNOWN_INTENT] Do you have paracetamol?
+[2026-03-01 07:51:57] [USER_QUERY] order 3 paracetamol
+[2026-03-01 07:51:57] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 07:51:57] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 07:52:10] [USER_QUERY] nanded
+[2026-03-01 08:02:53] [USER_QUERY] order paracetamol
+[2026-03-01 08:02:53] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 08:02:53] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 08:02:58] [USER_QUERY] nanded
+[2026-03-01 08:10:08] [USER_QUERY] order osa spray
+[2026-03-01 08:10:08] [INTENT_DETECTED] order_product | keyword=osa spray
+[2026-03-01 08:10:08] [ORDER_ATTEMPT] osa spray
+[2026-03-01 08:10:12] [USER_QUERY] nanded
+[2026-03-01 08:14:48] [USER_QUERY] order vitasprint
+[2026-03-01 08:14:48] [INTENT_DETECTED] order_product | keyword=vitasprint
+[2026-03-01 08:14:48] [ORDER_ATTEMPT] vitasprint
+[2026-03-01 08:14:53] [USER_QUERY] nanded
+[2026-03-01 08:28:23] [USER_QUERY] order paracetamol
+[2026-03-01 08:28:23] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 08:28:23] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 08:28:25] [USER_QUERY] nanded
+[2026-03-01 08:28:54] [USER_QUERY] order vitasprint
+[2026-03-01 08:28:54] [INTENT_DETECTED] order_product | keyword=vitasprint
+[2026-03-01 08:28:54] [ORDER_ATTEMPT] vitasprint
+[2026-03-01 08:28:57] [USER_QUERY] nanded
+[2026-03-01 09:25:49] [USER_QUERY] order paracetamol
+[2026-03-01 09:25:49] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 09:25:49] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 09:25:53] [USER_QUERY] nanded
+[2026-03-01 09:52:06] [USER_QUERY] i have fever what medicine can i take.....i am also feeling weakness
+[2026-03-01 09:52:06] [INTENT_DETECTED] symptom_query | keyword=i have fever what medicine can i takei am also feeling weakness
+[2026-03-01 09:52:06] [SYMPTOM_QUERY] i have fever what medicine can i take.....i am also feeling weakness
+[2026-03-01 09:52:54] [USER_QUERY] Do you have paracetamol?
+[2026-03-01 09:52:54] [INTENT_DETECTED] llm_fallback | keyword=Do you have paracetamol?
+[2026-03-01 09:52:54] [UNKNOWN_INTENT] Do you have paracetamol?
+[2026-03-01 09:53:27] [USER_QUERY] i want to order fsiodfhdjgdf
+[2026-03-01 09:53:27] [INTENT_DETECTED] order_product | keyword=i want to fsiodfhdjgdf
+[2026-03-01 09:53:27] [ORDER_ATTEMPT] i want to fsiodfhdjgdf
+[2026-03-01 09:53:49] [USER_QUERY] i dont want anything
+[2026-03-01 09:53:49] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 09:53:56] [USER_QUERY] i want nothing
+[2026-03-01 09:53:56] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 10:14:46] [USER_QUERY] hello
+[2026-03-01 10:14:46] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 10:15:37] [USER_QUERY] order paracetamol
+[2026-03-01 10:15:37] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 10:15:37] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 10:15:47] [USER_QUERY] nanded
+[2026-03-01 10:28:55] [USER_QUERY] i have fever
+[2026-03-01 10:29:26] [INTENT_DETECTED] unknown | keyword=i have fever
+[2026-03-01 10:29:26] [UNKNOWN_INTENT] i have fever
+[2026-03-01 10:29:52] [USER_QUERY] i want nothing
+[2026-03-01 10:30:05] [INTENT_DETECTED] unknown | keyword=i want nothing
+[2026-03-01 10:30:05] [UNKNOWN_INTENT] i want nothing
+[2026-03-01 10:30:37] [USER_QUERY] order paracetamol
+[2026-03-01 10:31:08] [INTENT_DETECTED] unknown | keyword=order paracetamol
+[2026-03-01 10:31:08] [UNKNOWN_INTENT] order paracetamol
+[2026-03-01 10:31:40] [USER_QUERY] i want to order paracetamol
+[2026-03-01 10:31:55] [INTENT_DETECTED] unknown | keyword=i want to order paracetamol
+[2026-03-01 10:31:55] [UNKNOWN_INTENT] i want to order paracetamol
+[2026-03-01 10:34:46] [USER_QUERY] i want to order paracetamol
+[2026-03-01 10:34:46] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 10:34:46] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 10:35:08] [USER_QUERY] give me medical advice for how to take that medicine
+[2026-03-01 10:35:33] [USER_QUERY] give me medical advice for how to take that medicine
+[2026-03-01 10:35:33] [INTENT_DETECTED] medicine_info | keyword=give me medical advice for how to take that medicine
+[2026-03-01 10:35:33] [MEDICINE_INFO_QUERY] give me medical advice for how to take that medicine
+[2026-03-01 10:38:58] [USER_QUERY] Do you have paracetamol?
+[2026-03-01 10:38:58] [INTENT_DETECTED] llm_fallback | keyword=Do you have paracetamol?
+[2026-03-01 10:38:58] [UNKNOWN_INTENT] Do you have paracetamol?
+[2026-03-01 10:39:32] [USER_QUERY] Who is Ritesh Debodhar?
+[2026-03-01 10:39:32] [INTENT_DETECTED] llm_fallback | keyword=Who is Ritesh Debodhar?
+[2026-03-01 10:39:32] [UNKNOWN_INTENT] Who is Ritesh Debodhar?
+[2026-03-01 10:40:19] [USER_QUERY] who is aditya kandale
+[2026-03-01 10:40:19] [INTENT_DETECTED] llm_fallback | keyword=who is aditya kandale
+[2026-03-01 10:40:19] [UNKNOWN_INTENT] who is aditya kandale
+[2026-03-01 10:43:29] [USER_QUERY] who is arpita
+[2026-03-01 10:43:29] [INTENT_DETECTED] llm_fallback | keyword=who is arpita
+[2026-03-01 10:43:29] [UNKNOWN_INTENT] who is arpita
+[2026-03-01 10:52:32] [USER_QUERY] do you have paracetamol
+[2026-03-01 10:52:32] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-01 10:52:32] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-01 10:53:01] [USER_QUERY] i want to order paracetamol
+[2026-03-01 10:53:01] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 10:53:01] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 10:53:22] [USER_QUERY] SGGS nanded
+[2026-03-01 10:54:20] [USER_QUERY] i have fever what medicine can i take
+[2026-03-01 10:54:20] [INTENT_DETECTED] symptom_query | keyword=i have fever what medicine can i take
+[2026-03-01 10:54:20] [SYMPTOM_QUERY] i have fever what medicine can i take
+[2026-03-01 11:17:29] [USER_QUERY] order paracetamol
+[2026-03-01 11:17:29] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 11:17:29] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 11:17:33] [USER_QUERY] nanded
+[2026-03-01 11:29:11] [USER_QUERY] Do you have paracetamol?
+[2026-03-01 11:29:11] [INTENT_DETECTED] llm_fallback | keyword=Do you have paracetamol?
+[2026-03-01 11:29:11] [UNKNOWN_INTENT] Do you have paracetamol?
+[2026-03-01 11:29:57] [USER_QUERY] jbkhj fmhfmvgbjhy
+[2026-03-01 11:29:57] [INTENT_DETECTED] search_product | keyword=jbkhj fmhfmvgbjhy
+[2026-03-01 11:29:57] [SEARCH] jbkhj fmhfmvgbjhy
+[2026-03-01 11:45:01] [USER_QUERY] fdjsgsjdghjsghkjf
+[2026-03-01 11:45:01] [INTENT_DETECTED] search_product | keyword=fdjsgsjdghjsghkjf
+[2026-03-01 11:45:01] [SEARCH] fdjsgsjdghjsghkjf
+[2026-03-01 11:46:16] [USER_QUERY] f
+[2026-03-01 11:46:16] [INTENT_DETECTED] search_product | keyword=f
+[2026-03-01 11:46:16] [SEARCH] f
+[2026-03-01 11:46:24] [USER_QUERY] p
+[2026-03-01 11:46:24] [INTENT_DETECTED] search_product | keyword=p
+[2026-03-01 11:46:24] [SEARCH] p
+[2026-03-01 11:52:35] [USER_QUERY] vfjghfjvhfvfv
+[2026-03-01 11:52:35] [INTENT_DETECTED] search_product | keyword=vfjghfjvhfvfv
+[2026-03-01 11:52:35] [SEARCH] vfjghfjvhfvfv
+[2026-03-01 11:52:46] [USER_QUERY] i want paracetamol
+[2026-03-01 11:52:46] [INTENT_DETECTED] llm_fallback | keyword=i want paracetamol
+[2026-03-01 11:52:46] [UNKNOWN_INTENT] i want paracetamol
+[2026-03-01 13:50:56] [USER_QUERY] buy vitasprint
+[2026-03-01 13:50:56] [INTENT_DETECTED] order_product | keyword=vitasprint
+[2026-03-01 13:50:56] [ORDER_ATTEMPT] vitasprint
+[2026-03-01 13:51:01] [USER_QUERY] nanded
+[2026-03-01 13:57:26] [USER_QUERY] order 50 Cystinol
+[2026-03-01 13:57:26] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 13:57:34] [USER_QUERY] i want to buy 50 Cystinol
+[2026-03-01 13:57:34] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 13:57:44] [USER_QUERY] i want to buy paracetamol
+[2026-03-01 13:57:44] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 13:57:44] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 13:57:50] [USER_QUERY] nanded
+[2026-03-01 14:00:24] [USER_QUERY] I'm the Voice Assistant. Do you have paracetamol?
+[2026-03-01 14:00:24] [INTENT_DETECTED] llm_fallback | keyword=I'm the Voice Assistant. Do you have paracetamol?
+[2026-03-01 14:00:24] [UNKNOWN_INTENT] I'm the Voice Assistant. Do you have paracetamol?
+[2026-03-01 14:01:50] [USER_QUERY] I want to order 5 paracetamol.
+[2026-03-01 14:01:50] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 14:01:50] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 14:01:57] [USER_QUERY] nanded
+[2026-03-01 14:07:13] [USER_QUERY] do you have paracetamol
+[2026-03-01 14:07:13] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-01 14:07:13] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-01 14:07:49] [USER_QUERY] i am having fever what shall i do?
+[2026-03-01 14:07:49] [INTENT_DETECTED] symptom_query | keyword=i am having fever what shall i do
+[2026-03-01 14:07:49] [SYMPTOM_QUERY] i am having fever what shall i do?
+[2026-03-01 14:08:17] [USER_QUERY] i want to order 5 paracetamol
+[2026-03-01 14:08:17] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 14:08:17] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 14:09:54] [USER_QUERY] do you have paracetamol
+[2026-03-01 14:09:54] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-01 14:09:54] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-01 14:10:21] [USER_QUERY] i want to order 5 paracetamol
+[2026-03-01 14:10:21] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 14:10:21] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 14:10:25] [USER_QUERY] nanded
+[2026-03-01 14:12:48] [USER_QUERY] Do you have paracetamol?
+[2026-03-01 14:12:48] [INTENT_DETECTED] llm_fallback | keyword=Do you have paracetamol?
+[2026-03-01 14:12:48] [UNKNOWN_INTENT] Do you have paracetamol?
+[2026-03-01 14:15:10] [USER_QUERY] I want to order Paracetamol
+[2026-03-01 14:15:10] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 14:15:10] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 14:15:46] [USER_QUERY] I want to order five Paracetamol
+[2026-03-01 14:15:46] [INTENT_DETECTED] order_product | keyword=i want to five paracetamol
+[2026-03-01 14:15:46] [ORDER_ATTEMPT] i want to five paracetamol
+[2026-03-01 14:16:18] [USER_QUERY] nanded
+[2026-03-01 14:17:21] [USER_QUERY] I have fever what medicine should I take
+[2026-03-01 14:17:21] [INTENT_DETECTED] symptom_query | keyword=i have fever what medicine should i take
+[2026-03-01 14:17:21] [SYMPTOM_QUERY] I have fever what medicine should I take
+[2026-03-01 14:20:07] [USER_QUERY] i want to order 10 paracetamol
+[2026-03-01 14:20:07] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 14:20:07] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 14:20:11] [USER_QUERY] nanded
+[2026-03-01 14:20:25] [USER_QUERY] i want to order 5 paracetamol
+[2026-03-01 14:20:25] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 14:20:25] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 14:20:28] [USER_QUERY] nanded
+[2026-03-01 14:20:47] [USER_QUERY] order 50 paracetamol
+[2026-03-01 14:20:47] [INTENT_DETECTED] order_product | keyword=paracetamol
+[2026-03-01 14:20:47] [ORDER_ATTEMPT] paracetamol
+[2026-03-01 14:23:25] [USER_QUERY] I am feeling dizzy what should I do
+[2026-03-01 14:23:25] [INTENT_DETECTED] llm_fallback | keyword=I am feeling dizzy what should I do
+[2026-03-01 14:23:25] [UNKNOWN_INTENT] I am feeling dizzy what should I do
+[2026-03-01 14:42:13] [USER_QUERY] i want lopi
+[2026-03-01 14:42:13] [INTENT_DETECTED] llm_fallback | keyword=i want lopi
+[2026-03-01 14:42:13] [UNKNOWN_INTENT] i want lopi
+[2026-03-01 14:42:34] [USER_QUERY] hello
+[2026-03-01 14:42:34] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 14:42:52] [USER_QUERY] tell me usages of paracetamol
+[2026-03-01 14:42:52] [INTENT_DETECTED] llm_fallback | keyword=tell me usages of paracetamol
+[2026-03-01 14:42:52] [UNKNOWN_INTENT] tell me usages of paracetamol
+[2026-03-01 14:43:44] [USER_QUERY] ok
+[2026-03-01 14:43:44] [INTENT_DETECTED] casual | keyword=
+[2026-03-01 14:43:44] [UNKNOWN_INTENT] ok
+[2026-03-01 14:44:10] [USER_QUERY] no i dont want anything
+[2026-03-01 14:44:10] [INTENT_DETECTED] decline | keyword=
+[2026-03-01 14:44:14] [USER_QUERY] yupp
+[2026-03-01 14:44:14] [INTENT_DETECTED] search_product | keyword=yupp
+[2026-03-01 14:44:14] [SEARCH] yupp
+[2026-03-01 14:44:30] [USER_QUERY] para
+[2026-03-01 14:44:30] [INTENT_DETECTED] search_product | keyword=para
+[2026-03-01 14:44:30] [SEARCH] para
+[2026-03-01 14:55:50] [USER_QUERY] i want 3 multivitamin tablets
+[2026-03-01 14:55:50] [INTENT_DETECTED] llm_fallback | keyword=i want 3 multivitamin tablets
+[2026-03-01 14:55:50] [UNKNOWN_INTENT] i want 3 multivitamin tablets
+[2026-03-01 14:56:25] [USER_QUERY] order 3 multivitamin tablets
+[2026-03-01 14:56:25] [INTENT_DETECTED] order_product | keyword=multivitamin tablets
+[2026-03-01 14:56:25] [ORDER_ATTEMPT] multivitamin tablets
+[2026-03-01 14:57:42] [USER_QUERY] order 3 vitasprint duo
+[2026-03-01 14:57:42] [INTENT_DETECTED] order_product | keyword=vitasprint duo
+[2026-03-01 14:57:42] [ORDER_ATTEMPT] vitasprint duo
+[2026-03-01 15:05:34] [USER_QUERY] you have Paracetamol
+[2026-03-01 15:05:34] [INTENT_DETECTED] llm_fallback | keyword=you have Paracetamol
+[2026-03-01 15:05:34] [UNKNOWN_INTENT] you have Paracetamol
+[2026-03-01 16:05:31] [USER_QUERY] Paracetamol
+[2026-03-01 16:05:31] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-03-01 16:05:31] [SEARCH] paracetamol
+[2026-03-01 16:10:49] [USER_QUERY] have Paracetamol
+[2026-03-01 16:10:49] [INTENT_DETECTED] search_product | keyword=have paracetamol
+[2026-03-01 16:10:49] [SEARCH] have paracetamol
+[2026-03-01 16:11:06] [USER_QUERY] do you have Paracetamol
+[2026-03-01 16:11:06] [INTENT_DETECTED] llm_fallback | keyword=do you have Paracetamol
+[2026-03-01 16:11:06] [UNKNOWN_INTENT] do you have Paracetamol
+[2026-03-01 16:13:23] [USER_QUERY] Paracetamol
+[2026-03-01 16:13:23] [INTENT_DETECTED] search_product | keyword=paracetamol
+[2026-03-01 16:13:23] [SEARCH] paracetamol
+[2026-03-01 16:13:35] [USER_QUERY] I want to order Paracetamol
+[2026-03-01 16:13:35] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 16:13:35] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 16:14:11] [USER_QUERY] sggs nanded
+[2026-03-01 16:14:24] [USER_QUERY] i want to order 5 paracetamol
+[2026-03-01 16:14:24] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 16:14:24] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 16:14:32] [USER_QUERY] nanded
+[2026-03-01 16:16:19] [USER_QUERY] i want paracetamol
+[2026-03-01 16:16:19] [INTENT_DETECTED] llm_fallback | keyword=i want paracetamol
+[2026-03-01 16:16:19] [UNKNOWN_INTENT] i want paracetamol
+[2026-03-01 21:36:12] [USER_QUERY] do you have omega 3 capsules
+[2026-03-01 21:36:12] [INTENT_DETECTED] llm_fallback | keyword=do you have omega 3 capsules
+[2026-03-01 21:36:12] [UNKNOWN_INTENT] do you have omega 3 capsules
+[2026-03-01 21:37:28] [USER_QUERY] i want to order 10 omega 3 capsules
+[2026-03-01 21:37:28] [INTENT_DETECTED] order_product | keyword=i want to omega capsules
+[2026-03-01 21:37:28] [ORDER_ATTEMPT] i want to omega capsules
+[2026-03-01 21:38:21] [USER_QUERY] can i order 50000 paracetamol
+[2026-03-01 21:38:21] [INTENT_DETECTED] order_product | keyword=can i paracetamol
+[2026-03-01 21:38:21] [ORDER_ATTEMPT] can i paracetamol
+[2026-03-01 21:38:29] [USER_QUERY] i have fever what should i do
+[2026-03-01 21:38:29] [INTENT_DETECTED] symptom_query | keyword=i have fever what should i do
+[2026-03-01 21:38:29] [SYMPTOM_QUERY] i have fever what should i do
+[2026-03-01 21:48:05] [USER_QUERY] hi
+[2026-03-01 21:48:05] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 21:48:12] [USER_QUERY] do you have paracetamol
+[2026-03-01 21:48:12] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-01 21:48:12] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-01 21:49:24] [USER_QUERY] i want to order 50 paracetamol
+[2026-03-01 21:49:24] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 21:49:24] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 21:49:41] [USER_QUERY] why cant i order 50 paracetamols
+[2026-03-01 21:49:41] [INTENT_DETECTED] order_product | keyword=why cant i paracetamols
+[2026-03-01 21:49:41] [ORDER_ATTEMPT] why cant i paracetamols
+[2026-03-01 21:49:54] [USER_QUERY] ok.........i want to buy 5 paracetamols
+[2026-03-01 21:49:54] [INTENT_DETECTED] order_product | keyword=oki want to paracetamols
+[2026-03-01 21:49:54] [ORDER_ATTEMPT] oki want to paracetamols
+[2026-03-01 21:50:00] [USER_QUERY] sggs nanded
+[2026-03-01 21:55:49] [USER_QUERY] hello
+[2026-03-01 21:55:49] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 21:55:56] [USER_QUERY] do you have paracetamol
+[2026-03-01 21:55:56] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-01 21:55:56] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-01 21:57:05] [USER_QUERY] but what is paracetamol actually used for?
+[2026-03-01 21:57:05] [INTENT_DETECTED] medicine_info | keyword=but what is paracetamol actually used for
+[2026-03-01 21:57:05] [MEDICINE_INFO_QUERY] but what is paracetamol actually used for
+[2026-03-01 21:57:49] [USER_QUERY] i want to order 100 paracetamol
+[2026-03-01 21:57:49] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 21:57:49] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 21:57:58] [USER_QUERY] i want to order 5 paracetamol
+[2026-03-01 21:57:58] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-01 21:57:58] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-01 21:58:03] [USER_QUERY] nanded
+[2026-03-01 22:01:41] [USER_QUERY] hi
+[2026-03-01 22:01:41] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 22:23:23] [USER_QUERY] hii
+[2026-03-01 22:23:23] [INTENT_DETECTED] search_product | keyword=hii
+[2026-03-01 22:23:23] [SEARCH] hii
+[2026-03-01 22:31:55] [USER_QUERY] hi
+[2026-03-01 22:31:55] [INTENT_DETECTED] greeting | keyword=
+[2026-03-01 22:32:02] [USER_QUERY] do you have paracetamol
+[2026-03-01 22:32:02] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-01 22:32:02] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-02 17:24:34] [USER_QUERY] hi
+[2026-03-02 17:24:34] [INTENT_DETECTED] greeting | keyword=
+[2026-03-02 17:24:42] [USER_QUERY] do you have paracetamol
+[2026-03-02 17:24:42] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-02 17:24:42] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-02 17:25:36] [USER_QUERY] I have fever what should I do
+[2026-03-02 17:25:36] [INTENT_DETECTED] symptom_query | keyword=i have fever what should i do
+[2026-03-02 17:25:36] [SYMPTOM_QUERY] I have fever what should I do
+[2026-03-02 17:26:07] [USER_QUERY] I want to order 50 Paracetamol
+[2026-03-02 17:26:07] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-02 17:26:07] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-02 17:26:23] [USER_QUERY] i want to order 2 paracetamol
+[2026-03-02 17:26:23] [INTENT_DETECTED] order_product | keyword=i want to paracetamol
+[2026-03-02 17:26:23] [ORDER_ATTEMPT] i want to paracetamol
+[2026-03-02 17:26:30] [USER_QUERY] vishnupuri
+[2026-03-02 17:28:59] [USER_QUERY] i want to buy nothing
+[2026-03-02 17:28:59] [INTENT_DETECTED] decline | keyword=
+[2026-03-02 17:37:31] [USER_QUERY] hi
+[2026-03-02 17:37:31] [INTENT_DETECTED] greeting | keyword=
+[2026-03-02 17:48:09] [USER_QUERY] hi
+[2026-03-02 17:48:09] [INTENT_DETECTED] greeting | keyword=
+[2026-03-02 17:48:22] [USER_QUERY] do you have paracetamol
+[2026-03-02 17:48:22] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-02 17:48:22] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-02 17:53:41] [USER_QUERY] hi
+[2026-03-02 17:53:41] [INTENT_DETECTED] greeting | keyword=
+[2026-03-02 17:53:48] [USER_QUERY] do you have paracetamol
+[2026-03-02 17:53:48] [INTENT_DETECTED] llm_fallback | keyword=do you have paracetamol
+[2026-03-02 17:53:48] [UNKNOWN_INTENT] do you have paracetamol
+[2026-03-02 17:54:46] [USER_QUERY] can i order 50 paracetamol
+[2026-03-02 17:54:46] [INTENT_DETECTED] order_product | keyword=can i paracetamol
+[2026-03-02 17:54:46] [ORDER_ATTEMPT] can i paracetamol
+[2026-03-02 17:55:01] [USER_QUERY] i want to order 5 omega 3 vegan capsules
+[2026-03-02 17:55:01] [INTENT_DETECTED] order_product | keyword=i want to omega vegan capsules
+[2026-03-02 17:55:01] [ORDER_ATTEMPT] i want to omega vegan capsules
+[2026-03-02 17:55:13] [USER_QUERY] ok... i want to order osa spray
+[2026-03-02 17:55:13] [INTENT_DETECTED] order_product | keyword=ok i want to osa spray
+[2026-03-02 17:55:13] [ORDER_ATTEMPT] ok i want to osa spray
+[2026-03-02 17:55:23] [USER_QUERY] sggs nanded
+[2026-03-02 17:56:06] [USER_QUERY] ok...i want to order nothing
+[2026-03-02 17:56:06] [INTENT_DETECTED] decline | keyword=
+[2026-03-02 17:57:57] [USER_QUERY] I am feeling dizzy what should I do
+[2026-03-02 17:57:57] [INTENT_DETECTED] llm_fallback | keyword=I am feeling dizzy what should I do
+[2026-03-02 17:57:57] [UNKNOWN_INTENT] I am feeling dizzy what should I do
