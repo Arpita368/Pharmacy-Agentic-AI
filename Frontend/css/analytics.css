@@ -1,0 +1,253 @@
+/* analytics.css */
+
+.kpi-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-md);
+    margin-bottom: var(--space-xl);
+}
+
+.kpi-card {
+    padding: var(--space-lg);
+    border-radius: var(--radius-lg);
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+}
+
+.kpi-label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-muted);
+    margin-bottom: 0.4rem;
+}
+
+.kpi-value {
+    font-size: 2rem;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.kpi-change {
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-top: 0.4rem;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.kpi-change.up {
+    color: var(--blue-300);
+}
+
+.kpi-change.down {
+    color: var(--color-danger);
+}
+
+.charts-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-lg);
+    width: 100%;
+}
+
+.charts-row> :nth-child(1) {
+    flex: 1.8;
+    min-width: min(100%, 300px);
+}
+
+.charts-row> :nth-child(2) {
+    flex: 1;
+    min-width: min(100%, 250px);
+}
+
+.chart-card {
+    padding: var(--space-xl);
+    border-radius: var(--radius-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    min-width: 0;
+}
+
+.chart-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: var(--space-lg);
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.chart-header h3 {
+    font-size: 0.95rem;
+    font-weight: 700;
+}
+
+.btn-sm {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.78rem;
+}
+
+/* Bar Chart */
+.bar-chart-wrap {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    height: 180px;
+    overflow-x: auto;
+    padding-bottom: 15px;
+    /* Added extra padding for scrollbar */
+    scrollbar-width: thin;
+    width: 100%;
+}
+
+.bar-col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    min-width: 35px;
+}
+
+.bar-fill {
+    width: 100%;
+    border-radius: 6px 6px 0 0;
+    min-height: 4px;
+    background: linear-gradient(180deg, var(--blue-200), var(--blue-400));
+    transition: height 0.8s var(--ease-out);
+    cursor: pointer;
+    position: relative;
+}
+
+.bar-fill:hover::after {
+    content: attr(data-val);
+    position: absolute;
+    top: -28px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--color-surface);
+    border: 1px solid var(--glass-border);
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--color-text);
+    white-space: nowrap;
+}
+
+.bar-label {
+    font-size: 0.72rem;
+    color: var(--color-muted);
+    text-align: center;
+}
+
+.bar-legend {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: var(--space-md);
+    font-size: 0.78rem;
+    color: var(--color-muted);
+}
+
+/* Donut Chart */
+.donut-wrap {
+    position: relative;
+    max-width: 180px;
+    margin: 0 auto var(--space-md);
+}
+
+#donut-svg {
+    width: 100%;
+    height: 100%;
+}
+
+.donut-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.donut-center strong {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 900;
+}
+
+.donut-center span {
+    font-size: 0.72rem;
+    color: var(--color-muted);
+}
+
+.donut-legend {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.donut-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+}
+
+.donut-legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+/* Stock health table */
+.health-bar-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.health-bar {
+    height: 8px;
+    border-radius: 99px;
+    flex: 1;
+    background: var(--color-panel);
+    overflow: hidden;
+    max-width: 120px;
+}
+
+.health-bar-fill {
+    height: 100%;
+    border-radius: 99px;
+    transition: width 0.6s ease;
+}
+
+/* Removed the charts-row media query since we use flex-wrap now */
+
+@media (max-width: 900px) {
+    .kpi-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .kpi-row {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .kpi-value {
+        font-size: 1.5rem;
+    }
+
+    .chart-card {
+        padding: var(--space-md);
+    }
+
+    .kpi-card {
+        padding: var(--space-md);
+    }
+}

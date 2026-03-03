@@ -1,0 +1,83 @@
+/* =============================================
+   PHARMA AI - DESIGN TOKENS & COLOR PALETTE
+   =============================================
+   Teal Palette:  #A2D9CE / #4BC9B0 / #16A085 / #0E6655 / #0B5345
+   Green Palette: #D5EBD4 / #ABD5BA / #6BBF9A / #4DAF7C / #2C7A5D
+   ============================================= */
+
+:root {
+    /* --- Core Brand Colors (Blue Palette) --- */
+    --blue-100: #B3D7E0;
+    --blue-200: #7FB3C1;
+    --blue-300: #4A9BBE;
+    --blue-400: #2A7A9D;
+    --blue-500: #1A4D6D;
+
+    /* --- Semantic Tokens (Light Mode) --- */
+    --color-bg: #f4f9fb;
+    --color-surface: #ffffff;
+    --color-panel: #e6f2f5;
+    --color-text: #1A4D6D;
+    --color-subtext: #2A7A9D;
+    --color-muted: #4A9BBE;
+    --color-border: #B3D7E0;
+    --color-brand: #4A9BBE;
+    --color-brand-alt: #7FB3C1;
+    --color-accent: #2A7A9D;
+    --color-highlight: #B3D7E0;
+
+    --color-warning: #f59e0b;
+    --color-danger: #ef4444;
+    --color-success: #2A7A9D;
+
+    /* --- Glass & Shadow --- */
+    --glass-bg: rgba(179, 215, 224, 0.15);
+    --glass-border: rgba(74, 155, 190, 0.35);
+    --shadow-sm: 0 2px 8px rgba(26, 77, 109, 0.08);
+    --shadow-md: 0 8px 24px rgba(26, 77, 109, 0.12);
+    --shadow-lg: 0 16px 48px rgba(26, 77, 109, 0.18);
+    --shadow-glow: 0 0 40px rgba(74, 155, 190, 0.25);
+
+    /* --- Typography --- */
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-mono: 'Fira Code', 'Consolas', monospace;
+
+    /* --- Spacing --- */
+    --space-xs: 0.25rem;
+    --space-sm: 0.5rem;
+    --space-md: 1rem;
+    --space-lg: 1.5rem;
+    --space-xl: 2rem;
+    --space-2xl: 3rem;
+
+    /* --- Radius --- */
+    --radius-sm: 0.5rem;
+    --radius-md: 0.875rem;
+    --radius-lg: 1.25rem;
+    --radius-xl: 2rem;
+    --radius-full: 999px;
+
+    /* --- Transitions --- */
+    --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+    --dur: 0.25s;
+}
+
+[data-theme="dark"] {
+    --color-bg: #0d1b26;
+    --color-surface: #142836;
+    --color-panel: #1a3344;
+    --color-text: #B3D7E0;
+    --color-subtext: #7FB3C1;
+    --color-muted: #4A9BBE;
+    --color-border: #1A4D6D;
+    --color-brand: #4A9BBE;
+    --color-brand-alt: #7FB3C1;
+    --color-accent: #B3D7E0;
+    --color-highlight: #1A4D6D;
+
+    --glass-bg: rgba(26, 77, 109, 0.2);
+    --glass-border: rgba(74, 155, 190, 0.3);
+    --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.4);
+    --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.6);
+    --shadow-glow: 0 0 60px rgba(26, 77, 109, 0.3);
+}
